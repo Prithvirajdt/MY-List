@@ -47,7 +47,7 @@ jobs:
             # -------- BLOCKLIST: NETWORK --------
             # Broadcaster names (Zee, ETV, etc.)
             function block_network(line) {
-              return (line ~ /asianet|etv|maa|cvr|gemini|jalsha|ktv|ptc|raj$|demo/)
+              return (line ~ /asianet|etv|maa|cvr|gemini|jalsha|ktv|ptc|raj t|raj d|raj m|demo/)
             }
 
             # -------- BLOCKLIST: LANGUAGE --------
