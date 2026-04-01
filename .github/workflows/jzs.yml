@@ -53,7 +53,7 @@ jobs:
             # -------- BLOCKLIST: LANGUAGE --------
             # Regional languages
             function block_language(line) {
-              return (line ~ /tamil|telugu|kannada|bangla|malayalam|english|gujarat|bengali|oriya|urdu|demo/)
+              return (line ~ /tamil|telugu|kannada|bangla|malayalam|english|gujarat|bengali|oriya|urdu|bhojpuri/)
             }
 
             # -------- BLOCKLIST: OTHER --------
