@@ -1,1 +1,120 @@
+name: Update Jio Playlist
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # --------------------------------------------
+      # STEP 1: CHECKOUT
+      # --------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # --------------------------------------------
+      # STEP 2: PREPARE FOLDER
+      # --------------------------------------------
+      - name: Prepare sources folder
+        run: mkdir -p sources
+
+      # --------------------------------------------
+      # STEP 3: DOWNLOAD SOURCE
+      # --------------------------------------------
+      - name: Download Jio playlist
+        env:
+          SRC_JTV: ${{ secrets.SRC_JTV }}
+        run: |
+          set -e
+          wget -q -O sources/jai_raw.m3u "$SRC_JTV"
+
+      # --------------------------------------------
+      # STEP 4: FILTER + CLEAN PLAYLIST
+      # --------------------------------------------
+      - name: Clean playlist
+        run: |
+          {
+            echo "#EXTM3U"
+            echo
+
+            awk '
+            BEGIN { IGNORECASE=1; keep=0 }
+
+            # -------- BLOCKLIST: NETWORK --------
+            # Broadcaster names (Zee, ETV, etc.)
+            function block_network(line) {
+              return (line ~ /demo|demo|demo/)
+            }
+
+            # -------- BLOCKLIST: LANGUAGE --------
+            # Regional languages
+            function block_language(line) {
+              return (line ~ /demo|demo|demo/)
+            }
+
+            # -------- BLOCKLIST: OTHER --------
+            # Misc unwanted channels
+            function block_other(line) {
+              return (line ~ /demo|demo|demo/)
+            }
+
+            # -------- MASTER BLOCK CHECK --------
+            # If ANY block matches → remove channel
+            function is_blocked(line) {
+              return block_network(line) || block_language(line) || block_other(line)
+            }
+
+            # -------- NEWS ALLOW LIST --------
+            function is_allowed_news(line) {
+              return (line ~ /demo|demo|demo/)
+            }
+
+            # -------- PROCESS CHANNEL --------
+            /^#EXTINF/ {
+
+              is_news = ($0 ~ /group-title="News"/ || $0 ~ /group-title="Business News"/)
+
+              if (is_news) {
+                if (!is_blocked($0) && is_allowed_news($0)) {
+                  keep=1
+                  gsub(/group-title="Business News"/, "group-title=\"News\"", $0)
+                  gsub(/group-title="Education"/, "group-title=\"Educational\"", $0)
+                  print
+                } else {
+                  keep=0
+                }
+                next
+              }
+
+              if (is_blocked($0)) {
+                keep=0
+              } else {
+                keep=1
+                gsub(/group-title="Education"/, "group-title=\"Educational\"", $0)
+                print
+              }
+              next
+            }
+
+            # -------- PRINT STREAM URL --------
+            { if (keep==1) print }
+
+            ' sources/jai_raw.m3u
+          } > sources/jai.ent
+
+          rm -f sources/jai_raw.m3u
+
+      # --------------------------------------------
+      # STEP 5: COMMIT
+      # --------------------------------------------
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add sources/jai.ent
+          git commit -m "Update Jio playlist (jai.ent)" || echo "No changes"
+          git push
