@@ -2945,13 +2945,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_Purvaiya_BTS/output/index.mpd?__hdnea
 #EXTHTTP:{"cookie":"__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_Ananda_BTS/output/index.mpd?__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1&xxx=%7Ccookie=__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1
 
-#EXTINF:-1 tvg-id="683" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1636627c85a5129974eea2d1a917604:2453963a306c012223944e13790908de
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_BTS/output/index.mpd?__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1&xxx=%7Ccookie=__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1
-
 #EXTINF:-1 tvg-id="691" group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",Saam Tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31f36ff78425c23b2c106a2059af000:106809f67f899736e3321303b007ccf3
@@ -3007,13 +3000,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_TV_BTS/output/index.mpd?__hdnea__
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Saptagiri_BTS/output/index.mpd?__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1&xxx=%7Ccookie=__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1
-
-#EXTINF:-1 tvg-id="707" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b214e599f3f5fb3abd92164fa152caf:ec6050021a558cd31511717e1c0912e6
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_TV_BTS/output/index.mpd?__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1&xxx=%7Ccookie=__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1
 
 #EXTINF:-1 tvg-id="708" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",Makkal TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3112,13 +3098,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sangeet_Marathi_BTS/output/index.mpd?__hd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/mh1_Music_BTS/output/index.mpd?__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1&xxx=%7Ccookie=__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1
-
-#EXTINF:-1 tvg-id="748" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fbca27f1de95241963dbf8ad9c85ade:7f71987978c403c7d78fd4ae92990496
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_BTS/output/index.mpd?__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1&xxx=%7Ccookie=__hdnea__=st=1775013393~exp=1775099793~acl=/*~hmac=f3e88751e271102cda1236cc2460da477f42013cbab12fd9abef5b9eb03f4af1
 
 #EXTINF:-1 tvg-id="751" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_Music.png",Tarang Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
