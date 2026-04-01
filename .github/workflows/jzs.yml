@@ -47,13 +47,13 @@ jobs:
             # -------- BLOCKLIST: NETWORK --------
             # Broadcaster names (Zee, ETV, etc.)
             function block_network(line) {
-              return (line ~ /asianet|etv |maa|cvr|gemini|jalsha|ktv|ptc|raj t|raj d|raj m|mahaa|surya|udaya|vijay|suvarna|stingray|kairali|thirai|cinemalu|ZB|jio s|jio e|jiog|jion|jio h|sathee|test/)
+              return (line ~ /asianet|etv |maa|cvr|gemini|jalsha|ktv|ptc|raj t|raj d|raj m|mahaa|surya|udaya|vijay|suvarna|stingray|kairali|thirai|cinemalu|ZB|jio s|jio e|jiog|jion|jio h|sathee|sun tv|sun life|sun music|jaya|sana |studio|mazha|test/)
             }
 
             # -------- BLOCKLIST: LANGUAGE --------
             # Regional languages
             function block_language(line) {
-              return (line ~ /tamil|telugu|kannada|bangla|malayalam|english|punjab|rajasthan|gujarat|bengali|oriya|urdu|kerala|bangalore|haryana|delhi|uttar|pradesh|bihar|bhojpuri/)
+              return (line ~ /tamil|telugu|kannada|bangla|malayalam|english|punjab|rajasthan|gujarat|bengali|oriya|urdu|kerala|bangalore|haryan|delhi|uttar|pradesh|bihar|bhojpuri/)
             }
 
             # -------- BLOCKLIST: OTHER --------
