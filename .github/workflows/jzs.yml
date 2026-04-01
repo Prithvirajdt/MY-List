@@ -70,7 +70,7 @@ jobs:
 
             # -------- NEWS ALLOW LIST --------
             function is_allowed_news(line) {
-              return (line ~ /demo|demo|demo/)
+              return (line ~ /zee|aaj tak|ndtv|india|today|cnn|cnbc|abp|top|euro|asia|republic|wion|bharat|dd|sansad|lok|nation|bloomberg|firstpost|saam|yahoo|al j|DD|now/)
             }
 
             # -------- PROCESS CHANNEL --------
