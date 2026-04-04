@@ -47,19 +47,19 @@ jobs:
             # -------- BLOCKLIST: NETWORK --------
             # Broadcaster names (Zee, ETV, etc.)
             function block_network(line) {
-              return (line ~ /asianet|etv |maa|cvr|gemini|jalsha|ktv|ptc|raj t|raj d|raj m|mahaa|surya|udaya|vijay|suvarna|stingray|kairali|thirai|cinemalu|ZB|jio s|jio e|jiog|jion|jio h|sathee|sun tv|sun life|sun music|jaya|sana |studio|mazha|digital|one|mh1|rang|test/)
+              return (line ~ /asianet|etv |maa|cvr|gemini|jalsha|ktv|ptc|s super|raj t|raj d|raj m|mahaa|surya|udaya|vijay|suvarna|stingray|kairali|thirai|cinemalu|ZB|jio s|jio e|jiog|jion|jio h|sathee|sun tv|sun life|sun music|jaya|sana |studio|mazha|sidharth|digital|public m||one|mh1|rang|k mar|+ mar|nick j|go mar|nic mar|test/)
             }
 
             # -------- BLOCKLIST: LANGUAGE --------
             # Regional languages
             function block_language(line) {
-              return (line ~ /tamil|telugu|kannada|bangla|malayalam|english|punjab|rajasthan|gujarat|bengali|oriya|urdu|kerala|bangalore|haryan|delhi|uttar|pradesh|bihar|garh|s mp|mp |s up|up |bhojpuri/)
+              return (line ~ /tamil|telugu|kannada|bangla|malayalam|english|punjab|rajasthan|gujarat|bengali|oriya|urdu|kerala|bangalore|haryan|delhi|uttar|pradesh|bihar|garh|s mp|mp |s up|up |apex|bhojpuri/)
             }
 
             # -------- BLOCKLIST: OTHER --------
             # Misc unwanted channels
             function block_other(line) {
-              return (line ~ /demo|demo|demo/)
+              return (line ~ /centa|gyanv|kite|nipun|book|adith|amr|ott|brio|vision|arun|girnar|kashir|north e|sapta|podhi|desi c|flower|friend|gangaur|jonack|kala|makkal|maya|mk s|moon|pepp|poli|yugam|roja|rong|sanjh|set sd|shark|spondon|aath|kiran|sundrani|by s|taiwan|vasanth|vissa|vendhar|vaan|sarthak|ayush|janap|malan|purnim|safari|sristi|teh|vanitha|demo/)
             }
 
             # -------- MASTER BLOCK CHECK --------
