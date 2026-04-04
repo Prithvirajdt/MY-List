@@ -47,19 +47,19 @@ jobs:
             # -------- BLOCKLIST: NETWORK --------
             # Broadcaster names (Zee, ETV, etc.)
             function block_network(line) {
-              return (line ~ /asianet|etv |maa|cvr|gemini|jalsha|ktv|ptc|s super|raj t|raj d|raj m|mahaa|surya|udaya|vijay|suvarna|stingray|kairali|thirai|cinemalu|ZB|jio s|jio e|jiog|jion|jio h|sathee|sun tv|sun life|sun music|jaya|sana |studio|mazha|sidharth|digital|public m|one|mh1|rang|k mar|+ mar|nick j|go mar|nic mar|test/)
+              return (line ~ /asianet|etv |maa|cvr|gemini|jalsha|ktv|ptc|s super|raj t|raj d|raj m|mahaa|surya|udaya|vijay|suvarna|stingray|kairali|thirai|cinemalu|ZB|jio s|jio e|jiog|jion|jio h|sathee|apex|sun tv|sun life|sun music|jaya|sana |studio|mazha|sidharth|digital|public m|one|mh1|rang|k mar|+ mar|nick j|go mar|nic mar|aarya|naaptol|svbc|test/)
             }
 
             # -------- BLOCKLIST: LANGUAGE --------
             # Regional languages
             function block_language(line) {
-              return (line ~ /tamil|telugu|kannada|bangla|malayalam|english|punjab|rajasthan|gujarat|bengali|oriya|urdu|kerala|bangalore|haryan|delhi|uttar|pradesh|bihar|garh|s mp|mp |s up|up |apex|bhojpuri/)
+              return (line ~ /tamil|telugu|kannada|bangla|malayalam|english|punjab|rajasthan|gujarat|bengali|oriya|urdu|kerala|bangalore|haryan|delhi|uttar|pradesh|bihar|garh|assam|s mp|mp |s up|up |odia|karnataka|bhojpuri/)
             }
 
             # -------- BLOCKLIST: OTHER --------
             # Misc unwanted channels
             function block_other(line) {
-              return (line ~ /centa|gyanv|kite|nipun|book|adith|amr|ott|brio|vision|arun|girnar|kashir|north e|sapta|podhi|desi c|flower|friend|gangaur|jonack|kala|makkal|maya|mk s|moon|pepp|poli|yugam|roja|rong|sanjh|set sd|shark|spondon|aath|kiran|sundrani|by s|taiwan|vasanth|vissa|vendhar|vaan|sarthak|ayush|janap|malan|purnim|safari|sristi|teh|vanitha|demo/)
+              return (line ~ /centa|gyanv|kite|nipun|book|adith|amr|ott|brio|vision|arun|captain|girnar|kashir|north e|sapta|podhi|desi c|flower|friend|gangaur|jonack|kala|makkal|maya|mk s|moon|pepp|poli|yugam|roja|rong|sanjh|set sd|shark|spondon|aath|kiran|sundrani|by s|taiwan|vasanth|vissa|vendhar|vaan|sarthak|ayush|janap|malan|purnim|safari|sristi|teh|vanitha|chintu|chutti|kochu|kushi|vyasa|wellness|gomantak|alankar|prive|hiff|j mov|maha mov|mahua|pitaara|tabbar|zee pow|7x music|balle|oye music|ramdhenu|saga music|sikh|songdew|steelbird|tunes 6|ananda|asmita|abp ganga|bharat news tv|bharat tv24|buletin|bajar|dd news|dd y|india prime n|living|nation ne|sattax|today 24x|ne bharat|jklh|prime asia|ghanta|angel|aradhana|atmad|siri|bhakti tv|bvtv|calvary|win|daya|divya v|goodness|gospel|grace|bani|harvest|hhdl|dharmam|hosanna|war vani|jothi|jyothi|lakshya|lovew|madha|mercy|nambi|popli|prabhu s|prarthana|tv bhakthi|sadhna g|sai tv|shalom|shubhs|sybhav|vignesh|village|yeshuaa|z10|demo/)
             }
 
             # -------- MASTER BLOCK CHECK --------
@@ -70,7 +70,7 @@ jobs:
 
             # -------- NEWS ALLOW LIST --------
             function is_allowed_news(line) {
-              return (line ~ /zee|aaj tak|ndtv|india|today|cnn|cnbc|abp|top|euro|asia|republic|wion|bharat|dd|sansad|lok|nation|bloomberg|firstpost|saam|yahoo|al j|DD|news18|tv9|now/)
+              return (line ~ /zee|aaj tak|ndtv|india|today|cnn|cnbc|abp|euro|asia|republic|wion|bharat|dd|sansad|lok|nation|bloomberg|firstpost|saam|yahoo|al j|DD|news18|tv9|now/)
             }
 
             # -------- PROCESS CHANNEL --------
