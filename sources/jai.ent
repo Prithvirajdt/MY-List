@@ -1441,11 +1441,6 @@ https://alex4528.site/jplus/LILLOO1iO1llioo1LIio/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
 https://alex4528.site/jplus/lOi100I0oiOLioo1O1il/manifest.mpd
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png",Sony Yay Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LI1ioOOLlOi1ioL0lOio/manifest.mpd
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
