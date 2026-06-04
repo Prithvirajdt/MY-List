@@ -1,173 +1,122 @@
-name: Update j3mrged Playlist
+name: Update merged Playlist
 
 on:
-workflow_dispatch:
-schedule:
-- cron: '0 */2 * * *'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-steps:
-  # --------------------------------------------
-  # STEP 1: CHECKOUT
-  # --------------------------------------------
-  - name: Checkout repository
-    uses: actions/checkout@v4
+    steps:
+      # --------------------------------------------
+      # CHECKOUT
+      # --------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  # --------------------------------------------
-  # STEP 2: PREPARE FOLDER
-  # --------------------------------------------
-  - name: Prepare sources folder
-    run: mkdir -p sources
+      # --------------------------------------------
+      # DOWNLOAD PLAYLISTS
+      # --------------------------------------------
+      - name: Download playlists
+        run: |
+          mkdir -p work
 
-  # --------------------------------------------
-  # STEP 3: DOWNLOAD PLAYLISTS
-  # --------------------------------------------
-  - name: Download playlists
-    run: |
-      set -e
+          curl -L \
+            "https://raw.githubusercontent.com/Prithvirajdt/MY-List/refs/heads/main/sources/jai.ent" \
+            -o work/jai.ent
 
-      wget -q -O sources/jai.ent \
-      https://raw.githubusercontent.com/Prithvirajdt/MY-List/refs/heads/main/sources/jai.ent
+          curl -L \
+            "https://raw.githubusercontent.com/Prithvirajdt/MY-List/refs/heads/main/sources/jai2.ent" \
+            -o work/jai2.ent
 
-      wget -q -O sources/jai2.ent \
-      https://raw.githubusercontent.com/Prithvirajdt/MY-List/refs/heads/main/sources/jai2.ent
+      # --------------------------------------------
+      # MERGE GROUP TITLES
+      # --------------------------------------------
+      - name: Merge playlists
+        run: |
+          python << 'EOF'
+          import re
 
-  # --------------------------------------------
-  # STEP 4: MERGE PLAYLISTS
-  # --------------------------------------------
-  - name: Merge playlists
-    run: |
-      python3 << 'PY'
-      import re
+          with open("work/jai.ent", "r", encoding="utf-8", errors="ignore") as f:
+              jai = f.read().splitlines()
 
-      master_file = "sources/jai.ent"
-      secondary_file = "sources/jai2.ent"
-      output_file = "sources/merged.ent"
+          with open("work/jai2.ent", "r", encoding="utf-8", errors="ignore") as f:
+              jai2 = f.read().splitlines()
 
-      def parse_playlist(path):
-          channels = []
+          # Build name -> group-title map from jai.ent
+          group_map = {}
 
-          with open(path, encoding="utf-8", errors="ignore") as f:
-              lines = f.readlines()
+          for line in jai:
+              if line.startswith("#EXTINF"):
+                  m_name = re.search(r',\s*(.*)$', line)
+                  m_group = re.search(r'group-title="([^"]*)"', line)
+
+                  if m_name:
+                      name = m_name.group(1).strip()
+                      group = m_group.group(1) if m_group else ""
+
+                      if name:
+                          group_map[name.lower()] = group
+
+          output = ["#EXTM3U"]
 
           i = 0
+          while i < len(jai2):
+              line = jai2[i]
 
-          while i < len(lines):
-              if lines[i].startswith("#EXTINF"):
+              if line.startswith("#EXTINF"):
+                  extinf = line
 
-                  extinf = lines[i].rstrip()
+                  name_match = re.search(r',\s*(.*)$', extinf)
+                  channel_name = (
+                      name_match.group(1).strip()
+                      if name_match else ""
+                  )
 
-                  url = ""
-                  if i + 1 < len(lines):
-                      url = lines[i + 1].strip()
+                  new_group = group_map.get(channel_name.lower())
 
-                  name = extinf.split(",")[-1].strip()
+                  if new_group is not None:
+                      if 'group-title="' in extinf:
+                          extinf = re.sub(
+                              r'group-title="[^"]*"',
+                              f'group-title="{new_group}"',
+                              extinf
+                          )
+                      else:
+                          extinf = extinf.replace(
+                              "#EXTINF:-1",
+                              f'#EXTINF:-1 group-title="{new_group}"',
+                              1
+                          )
 
-                  tvg = ""
-                  m = re.search(r'tvg-id="([^"]*)"', extinf)
-                  if m:
-                      tvg = m.group(1)
+                  output.append(extinf)
 
-                  group = ""
-                  m = re.search(r'group-title="([^"]*)"', extinf)
-                  if m:
-                      group = m.group(1)
-
-                  channels.append({
-                      "extinf": extinf,
-                      "url": url,
-                      "name": name,
-                      "tvg": tvg,
-                      "group": group
-                  })
+                  if i + 1 < len(jai2):
+                      output.append(jai2[i + 1])
 
                   i += 2
               else:
                   i += 1
 
-          return channels
+          with open("merged.ent", "w", encoding="utf-8") as f:
+              f.write("\n".join(output))
 
-      master = parse_playlist(master_file)
-      secondary = parse_playlist(secondary_file)
+          print("merged.ent created")
+          EOF
 
-      # Build group-title lookup from jai.ent
-      group_map = {}
+      # --------------------------------------------
+      # COMMIT CHANGES
+      # --------------------------------------------
+      - name: Commit merged playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      for ch in master:
-          if ch["tvg"]:
-              group_map["id:" + ch["tvg"].lower()] = ch["group"]
+          git add merged.ent
 
-          group_map["name:" + ch["name"].lower()] = ch["group"]
-
-      merged = []
-      seen = set()
-
-      def get_key(ch):
-          if ch["tvg"]:
-              return "id:" + ch["tvg"].lower()
-
-          return "name:" + ch["name"].lower()
-
-      # Add all channels from jai.ent first
-      for ch in master:
-          key = get_key(ch)
-
-          if key not in seen:
-              merged.append(ch)
-              seen.add(key)
-
-      # Add missing channels from jai2.ent
-      for ch in secondary:
-          key = get_key(ch)
-
-          if key in seen:
-              continue
-
-          group = None
-
-          if ch["tvg"]:
-              group = group_map.get(
-                  "id:" + ch["tvg"].lower()
-              )
-
-          if not group:
-              group = group_map.get(
-                  "name:" + ch["name"].lower()
-              )
-
-          if group:
-              if 'group-title="' in ch["extinf"]:
-                  ch["extinf"] = re.sub(
-                      r'group-title="[^"]*"',
-                      f'group-title="{group}"',
-                      ch["extinf"]
-                  )
-
-          merged.append(ch)
-          seen.add(key)
-
-      with open(output_file, "w", encoding="utf-8") as out:
-          out.write("#EXTM3U\n\n")
-
-          for ch in merged:
-              out.write(ch["extinf"] + "\n")
-              out.write(ch["url"] + "\n")
-
-      print(
-          f"Merged playlist created with {len(merged)} channels"
-      )
-      PY
-
-  # --------------------------------------------
-  # STEP 5: COMMIT
-  # --------------------------------------------
-  - name: Commit and push
-    run: |
-      git config user.name "github-actions"
-      git config user.email "github-actions@github.com"
-      git add sources/merged.ent
-      git commit -m "Update merged playlist" || echo "No changes"
-      git push
+          git diff --cached --quiet || (
+            git commit -m "Update merged playlist"
+            git push
+          )
