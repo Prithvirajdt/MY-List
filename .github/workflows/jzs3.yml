@@ -32,7 +32,7 @@ jobs:
           set -e
           wget -q -O sources/jai3_raw.m3u "$SRC_JTV3"
 
-      # --------------------------------------------
+            # --------------------------------------------
       # STEP 4: FILTER + CLEAN PLAYLIST
       # --------------------------------------------
       - name: Clean playlist
@@ -75,12 +75,6 @@ jobs:
 
             # -------- PROCESS CHANNEL --------
             /^#EXTINF/ {
-
-              # ONLY KEEP CHANNELS WITH JIO ⭕ IN GROUP-TITLE
-              if ($0 !~ /group-title="[^"]*JIO ⭕[^"]*"/) {
-                keep=0
-                next
-              }
 
               is_news = ($0 ~ /group-title="News"/ || $0 ~ /group-title="Business News"/)
 
