@@ -11,7 +11,7 @@ jobs:
 
     steps:
       # --------------------------------------------
-      # CHECKOUT
+      # CHECKOUT REPOSITORY
       # --------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -34,10 +34,11 @@ jobs:
       # --------------------------------------------
       # MERGE GROUP TITLES
       # --------------------------------------------
-      - name: Merge playlists
+      - name: Merge group titles
         run: |
           python << 'EOF'
           import re
+          import os
 
           with open("work/jai.ent", "r", encoding="utf-8", errors="ignore") as f:
               jai = f.read().splitlines()
@@ -45,78 +46,63 @@ jobs:
           with open("work/jai2.ent", "r", encoding="utf-8", errors="ignore") as f:
               jai2 = f.read().splitlines()
 
-          # Build name -> group-title map from jai.ent
+          # Build channel name -> group-title map from jai.ent
           group_map = {}
 
           for line in jai:
               if line.startswith("#EXTINF"):
-                  m_name = re.search(r',\s*(.*)$', line)
-                  m_group = re.search(r'group-title="([^"]*)"', line)
+                  name_match = re.search(r',\s*(.*)$', line)
+                  group_match = re.search(r'group-title="([^"]*)"', line)
 
-                  if m_name:
-                      name = m_name.group(1).strip()
-                      group = m_group.group(1) if m_group else ""
+                  if name_match and group_match:
+                      channel_name = name_match.group(1).strip().lower()
+                      group_title = group_match.group(1)
+                      group_map[channel_name] = group_title
 
-                      if name:
-                          group_map[name.lower()] = group
+          output = []
 
-          output = ["#EXTM3U"]
-
-          i = 0
-          while i < len(jai2):
-              line = jai2[i]
-
+          for line in jai2:
               if line.startswith("#EXTINF"):
-                  extinf = line
+                  name_match = re.search(r',\s*(.*)$', line)
 
-                  name_match = re.search(r',\s*(.*)$', extinf)
-                  channel_name = (
-                      name_match.group(1).strip()
-                      if name_match else ""
-                  )
+                  if name_match:
+                      channel_name = name_match.group(1).strip().lower()
 
-                  new_group = group_map.get(channel_name.lower())
+                      if channel_name in group_map:
+                          new_group = group_map[channel_name]
 
-                  if new_group is not None:
-                      if 'group-title="' in extinf:
-                          extinf = re.sub(
-                              r'group-title="[^"]*"',
-                              f'group-title="{new_group}"',
-                              extinf
-                          )
-                      else:
-                          extinf = extinf.replace(
-                              "#EXTINF:-1",
-                              f'#EXTINF:-1 group-title="{new_group}"',
-                              1
-                          )
+                          if 'group-title="' in line:
+                              line = re.sub(
+                                  r'group-title="[^"]*"',
+                                  f'group-title="{new_group}"',
+                                  line
+                              )
 
-                  output.append(extinf)
-
-                  if i + 1 < len(jai2):
-                      output.append(jai2[i + 1])
-
-                  i += 2
+                  output.append(line)
               else:
-                  i += 1
+                  output.append(line)
 
-          with open("merged.ent", "w", encoding="utf-8") as f:
+          os.makedirs("sources", exist_ok=True)
+
+          with open("sources/merged.ent", "w", encoding="utf-8", newline="\n") as f:
               f.write("\n".join(output))
 
-          print("merged.ent created")
+          print("Created sources/merged.ent")
           EOF
 
       # --------------------------------------------
-      # COMMIT CHANGES
+      # COMMIT & PUSH IF CHANGED
       # --------------------------------------------
-      - name: Commit merged playlist
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add merged.ent
+          git add sources/merged.ent
 
-          git diff --cached --quiet || (
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
             git commit -m "Update merged playlist"
             git push
-          )
+          fi
