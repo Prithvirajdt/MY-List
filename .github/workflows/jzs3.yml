@@ -76,6 +76,12 @@ jobs:
             # -------- PROCESS CHANNEL --------
             /^#EXTINF/ {
 
+              # ONLY KEEP CHANNELS WITH JIO ⭕ IN GROUP-TITLE
+              if ($0 !~ /group-title="[^"]*JIO ⭕[^"]*"/) {
+                keep=0
+                next
+              }
+
               is_news = ($0 ~ /group-title="News"/ || $0 ~ /group-title="Business News"/)
 
               if (is_news) {
