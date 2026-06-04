@@ -27,7 +27,7 @@ jobs:
       # --------------------------------------------
       - name: Download Jio playlist
         env:
-          SRC_JTV: ${{ secrets.SRC_JTV2 }}
+          SRC_JTV2: ${{ secrets.SRC_JTV2 }}
         run: |
           set -e
           wget -q -O sources/jai2_raw.m3u "$SRC_JTV2"
