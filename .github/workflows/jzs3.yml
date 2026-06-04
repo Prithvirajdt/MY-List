@@ -168,9 +168,6 @@ steps:
     run: |
       git config user.name "github-actions"
       git config user.email "github-actions@github.com"
-
       git add sources/merged.ent
-
       git commit -m "Update merged playlist" || echo "No changes"
-
       git push
