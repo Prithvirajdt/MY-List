@@ -1,4 +1,4 @@
-name: Update Master Playlist
+name: Update j3mrged Playlist
 
 on:
 workflow_dispatch:
