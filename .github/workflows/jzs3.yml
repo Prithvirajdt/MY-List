@@ -10,7 +10,6 @@ build:
 runs-on: ubuntu-latest
 
 steps:
-
   # --------------------------------------------
   # STEP 1: CHECKOUT
   # --------------------------------------------
@@ -57,7 +56,6 @@ steps:
           i = 0
 
           while i < len(lines):
-
               if lines[i].startswith("#EXTINF"):
 
                   extinf = lines[i].rstrip()
@@ -69,22 +67,12 @@ steps:
                   name = extinf.split(",")[-1].strip()
 
                   tvg = ""
-
-                  m = re.search(
-                      r'tvg-id="([^"]*)"',
-                      extinf
-                  )
-
+                  m = re.search(r'tvg-id="([^"]*)"', extinf)
                   if m:
                       tvg = m.group(1)
 
                   group = ""
-
-                  m = re.search(
-                      r'group-title="([^"]*)"',
-                      extinf
-                  )
-
+                  m = re.search(r'group-title="([^"]*)"', extinf)
                   if m:
                       group = m.group(1)
 
@@ -97,7 +85,6 @@ steps:
                   })
 
                   i += 2
-
               else:
                   i += 1
 
@@ -106,24 +93,19 @@ steps:
       master = parse_playlist(master_file)
       secondary = parse_playlist(secondary_file)
 
+      # Build group-title lookup from jai.ent
       group_map = {}
 
       for ch in master:
-
           if ch["tvg"]:
-              group_map[
-                  "id:" + ch["tvg"].lower()
-              ] = ch["group"]
+              group_map["id:" + ch["tvg"].lower()] = ch["group"]
 
-          group_map[
-              "name:" + ch["name"].lower()
-          ] = ch["group"]
+          group_map["name:" + ch["name"].lower()] = ch["group"]
 
       merged = []
       seen = set()
 
       def get_key(ch):
-
           if ch["tvg"]:
               return "id:" + ch["tvg"].lower()
 
@@ -131,16 +113,14 @@ steps:
 
       # Add all channels from jai.ent first
       for ch in master:
-
           key = get_key(ch)
 
           if key not in seen:
               merged.append(ch)
               seen.add(key)
 
-      # Add only missing channels from jai2.ent
+      # Add missing channels from jai2.ent
       for ch in secondary:
-
           key = get_key(ch)
 
           if key in seen:
@@ -159,9 +139,7 @@ steps:
               )
 
           if group:
-
               if 'group-title="' in ch["extinf"]:
-
                   ch["extinf"] = re.sub(
                       r'group-title="[^"]*"',
                       f'group-title="{group}"',
@@ -172,7 +150,6 @@ steps:
           seen.add(key)
 
       with open(output_file, "w", encoding="utf-8") as out:
-
           out.write("#EXTM3U\n\n")
 
           for ch in merged:
@@ -182,7 +159,6 @@ steps:
       print(
           f"Merged playlist created with {len(merged)} channels"
       )
-
       PY
 
   # --------------------------------------------
@@ -192,6 +168,9 @@ steps:
     run: |
       git config user.name "github-actions"
       git config user.email "github-actions@github.com"
+
       git add sources/merged.ent
+
       git commit -m "Update merged playlist" || echo "No changes"
+
       git push
