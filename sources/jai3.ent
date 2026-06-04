@@ -1,5 +1,324 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-Hindi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705141.ts
+
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Hindi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705144.ts
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",TATA IPL TV
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/out/v1/llg-tv-mum/1540065990_hindi_38333ea5/gec-india_hls_unencrypted/master-ap-1080-4.m3u8
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india/faffc00f9fc7402db40108fd87c2d53e/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",STAR SPORTS CRICKET CLASSIC
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/out/v1/llg-tv-mum/1540065984_hindi_786cf674/gec-india_hls_unencrypted/master-ap-1080-4.m3u8
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-hotstartv/3e222014b2524730ad86d0a8457ca5c1/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/3639/1756796893639-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",T20s TV
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india/60b51adb7eae4ae492e6ba6c156a1efe/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Sports HD1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349089~exp=1774349689~acl=/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=b20f1f17b33b1b775c2e40349952a08cb204dbab0ea48309427f83af63e4868e
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv-push.hotstar.com/dash/live/2002464/sshd1livetvwv/master.mpd
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Sports HD2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349093~exp=1774349693~acl=/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=1266eb764ee4cb2726350e54a1e331d4e862934ed495db0948438b2335d02638
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv-push.hotstar.com/dash/live/2002465/sshd2livetvwv/master.mpd
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Sports Hindi HD1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349081~exp=1774349681~acl=/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=abeb7ffa23df70f8de07b0e1e609905539f18f5d56a2175aff8a1a6909d68c40
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Sports Select HD1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv-push.hotstar.com/dash/live/2002470-b/ssselecthd1wv/master.mpd?partner=jio-stb&hdnea=st=1774349095~exp=1774349695~acl=/dash/live/2002470-b/ssselecthd1wv/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=4470006c670b712ecf817108e63205fca697adaf7083494c207d1324d4e3225a
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv-push.hotstar.com/dash/live/2002470-b/ssselecthd1wv/master.mpd
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Sports Select HD2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv-push.hotstar.com/dash/live/2002471-b/ssselecthd2wv/master.mpd?partner=jio-stb&hdnea=st=1774349097~exp=1774349697~acl=/dash/live/2002471-b/ssselecthd2wv/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=5b767ea005cced248b5b4814cf80f9819cac8e32a71ae5d7eb051e5572b38acb
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Sports 2 Hindi HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Sports 2 Hindi
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Colors HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsHD/JCHLS/JC_ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Colors Rishtey
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsRishtey/JCHLS/JC_ColorsRishtey.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Colors Marathi HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/JC_ColorsMarathiHD.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Colors Infinity HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/JC_ColorsInfinityHD.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Colors Cineplex HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Colors Cineplex Superhits
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Colors Cineplex Bollywood
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/JC_ColorsCineplexBollywood.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",MTV HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_MTVHD/JCHLS/JC_MTVHD.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Nick
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_NickSD/JCHLS/JC_NickSD.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Sonic
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_SonicNick/JCHLS/JC_SonicNick.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Nick HD+
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_NickHD/JCHLS/JC_NickHD.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",CNBC Awaaz
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/CNBC_Awaaz_voot_MOB.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",CNBC Bazaar
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/CNBC_Bazaar_voot_MOB.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",CNBC TV18
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/CNBC_TV18_voot_MOB.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",News18 India
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/News18_India_voot_MOB/Fallback/News18_India_voot_MOB.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",News18 Lokmat
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/News18_Lokmat_voot_MOB.m3u8
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Pravah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d300f38d30d4829b2e525a037560000:706572c4aac0420f90a778e22116b320
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349106~exp=1774349706~acl=/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=337d9dfbd6682e0a0a697513ea844776a9c615cd2bf58e1b61fee73a3b4e4483
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/index.mpd
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",StarPlus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17a6e6ef02f74d9bbce4640371d40000:7a89315d2ec84875901dce2d3044556c
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c625cb0/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349084~exp=1774349684~acl=/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c625cb0/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=e27825f18d69b051722bddcb4f4919a6cbb03aa4a1c86932febb9b6d1e6f705d
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c625cb0/index.mpd
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Utsav
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f55cce9ba94df6b009f2433ef90000:6f33ae9e6fa24f95b82e538563b1cbaf
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349087~exp=1774349687~acl=/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=6fef543ab1e24f3cc63a4374aa15a8fba9ec3956ea6e07e9448a34d943140c78
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/index.mpd
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Bharat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4271050207424ba8b3e65c602d7e0000:8fdd910f634b40fdb5bfde551e08fd6c
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349086~exp=1774349686~acl=/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=fcc143e4bb1f2b60b15285c068f735fd3236b25599956a9e3d9d1cc023ffee93
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/index.mpd
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",Star Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
+#EXTHTTP:{"Cookie":"hdntl=exp=1780610918~acl=%2f*~id=a55f6dac4ab61378e82093b977d4ff36~data=hdntl~hmac=57885b37d7098842b495c09e26778b8f5a6dd6eec66d5548bdbbd4070a27abb5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Marathi HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdnts=st=1779075360~exp=1779078360~acl=/cmaf/live/2105520/ZeeMarathiHDELE/*~id=e32264ca-4059-4f31-bb7c-0ffaa6d44875~data=non-ssai_e32264ca-4059-4f31-bb7c-0ffaa6d44875~hmac=533784511d949ba586b6a3785f1c82aa7b36737d00eae70b0f1da0fb1a21a8b7&req_id=non-ssai_e32264ca-4059-4f31-bb7c-0ffaa6d44875
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/list/1920x1080list3424a135de534b88a95bfd69d193ae1c.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdnts=st=1779075358~exp=1779078358~acl=/cmaf/live/2105531/ZeeTVHDMSLELE/*~id=6dddbe01-e928-4fbe-9f7a-fc7000695dc3~data=non-ssai_6dddbe01-e928-4fbe-9f7a-fc7000695dc3~hmac=5222c4722b18867c33842c24bc6c7f0fffe95cea5f81a47850b913af512501b6&req_id=non-ssai_6dddbe01-e928-4fbe-9f7a-fc7000695dc3
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/list/1920x1080listb0707389e11d47edb651c329f76a0755.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdnts=st=1779075360~exp=1779078360~acl=/cmaf/live/2105540/ZeeCinemaHDELE/*~id=22717a53-487f-494a-92bf-b69e5340249e~data=non-ssai_22717a53-487f-494a-92bf-b69e5340249e~hmac=ab0cb8f3c5e7e40373ddb24c08718b93e43a4ac8ef0d1b545970942570ab4dfe&req_id=non-ssai_22717a53-487f-494a-92bf-b69e5340249e
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383486/list/thumbnail1920x10804b8e9b0fdb9a41a6845b71593c54abea.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdnts=st=1779075363~exp=1779078363~acl=/out/v1/ZEE5_Live_Channels/Zee-Marathi-SD/master/*~id=f2ced8c6-591b-445a-abfc-4d3dd7c82119~data=non-ssai_f2ced8c6-591b-445a-abfc-4d3dd7c82119~hmac=83484c3a29f037699fbdfb3f82f71060583a1a1858672dc46338d8e4b8c9c7b3&req_id=non-ssai_f2ced8c6-591b-445a-abfc-4d3dd7c82119
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Talkies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdnts=st=1779075363~exp=1779078363~acl=/out/v1/ZEE5_Live_Channels/Zee-Talkies-HD/index/*~id=158b5687-b092-4ce0-8aff-b4ec7673c500~data=non-ssai_158b5687-b092-4ce0-8aff-b4ec7673c500~hmac=aa826ea03e7da7a6fc4cb005d8a3c6a4c71986f30be3f9bc1f3703626a537084&req_id=non-ssai_158b5687-b092-4ce0-8aff-b4ec7673c500
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Classic-SD/master/master.m3u8?hdnts=st=1779075364~exp=1779078364~acl=/out/v1/ZEE5_Live_Channels/Zee-Classic-SD/master/*~id=86f27051-c52b-4658-9b7b-2362307520a9~data=non-ssai_86f27051-c52b-4658-9b7b-2362307520a9~hmac=0b224d4f7890b87a49294135cbb69f25d4b91c77fa936dc915c43bb6e6605ecf&req_id=non-ssai_86f27051-c52b-4658-9b7b-2362307520a9
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1920x1080listead02d49416241ce89c60432d7b879a6.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",&Pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdnts=st=1779075366~exp=1779078366~acl=/cmaf/live/2105174/ANDPicturesHDELE/*~id=becc3631-3437-46ba-80fb-e9e873f635cc~data=non-ssai_becc3631-3437-46ba-80fb-e9e873f635cc~hmac=b10071e1bb54bfbc001a748d762f525c30a3138f738e6881d86856fd768e319d&req_id=non-ssai_becc3631-3437-46ba-80fb-e9e873f635cc
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/list/1920x1080list993a532d3c6040d78b2e69a2862f4e28.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/master.m3u8?hdnts=st=1779075366~exp=1779078366~acl=/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/*~id=76df007d-182e-4eb9-b662-68762627eb11~data=non-ssai_76df007d-182e-4eb9-b662-68762627eb11~hmac=073573fe5d2eb3076069d1a65902acc29d64a5c8e9ce773905546627c1038cb3&req_id=non-ssai_76df007d-182e-4eb9-b662-68762627eb11
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Café HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-cafe-HD/index-connected/index-connected.m3u8?hdnts=st=1779075369~exp=1779078369~acl=/out/v1/ZEE5_Live_Channels/Zee-cafe-HD/index/*~id=2ee5ac7b-e285-44dd-8fbf-0076845073e5~data=non-ssai_2ee5ac7b-e285-44dd-8fbf-0076845073e5~hmac=9b303de5ab65f452dcfc758058ea2f7678daa415dc8f6133f1fabada72fe2623&req_id=non-ssai_2ee5ac7b-e285-44dd-8fbf-0076845073e5
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-348/list/1920x1080list7568db782c114329afd8bb7e030eca0d.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Zest HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected/index-connected.m3u8?hdnts=st=1779075368~exp=1779078368~acl=/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index/*~id=32b17fd9-9cc9-4ef4-b3cb-a8aac9439645~data=non-ssai_32b17fd9-9cc9-4ef4-b3cb-a8aac9439645~hmac=def50308ce02655e5e841c26c1fdc82543e86c49d19e6a325587b808ed4dacea&req_id=non-ssai_32b17fd9-9cc9-4ef4-b3cb-a8aac9439645
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/list/1920x1080list8cecf80ef6884ff09063a5abd21f81d6.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",&TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdnts=st=1779075370~exp=1779078370~acl=/cmaf/live/2105504/AndTVHDELE/*~id=d833eeca-589c-4ca9-9dfc-3266e53aeaf2~data=non-ssai_d833eeca-589c-4ca9-9dfc-3266e53aeaf2~hmac=790df08f24664d4ee6a3102b5bcc14545ddcc5992597023bb36ecce48cf3b8b2&req_id=non-ssai_d833eeca-589c-4ca9-9dfc-3266e53aeaf2
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",&xplorHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Xplor-HD/index-connected/index-connected.m3u8?hdnts=st=1779075370~exp=1779078370~acl=/out/v1/ZEE5_Live_Channels/And-Xplor-HD/index/*~id=0b40e1ec-495d-4a9a-86a3-0b69f4b951c9~data=non-ssai_0b40e1ec-495d-4a9a-86a3-0b69f4b951c9~hmac=50105bcff441db5336fa61c9eb98f0aa99027e4b44771ff91266d407890da1e8&req_id=non-ssai_0b40e1ec-495d-4a9a-86a3-0b69f4b951c9
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",&flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Flix-HD/index-connected/index-connected.m3u8?hdnts=st=1779075372~exp=1779078372~acl=/out/v1/ZEE5_Live_Channels/And-Flix-HD/index/*~id=f859a21a-d80f-491e-85ed-3c7efd5f068c~data=non-ssai_f859a21a-d80f-491e-85ed-3c7efd5f068c~hmac=be853df986375f82734a156732c1c9b88df04c02422675a3e0dd5024462e8b9e&req_id=non-ssai_f859a21a-d80f-491e-85ed-3c7efd5f068c
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/list/1920x1080lista5ee31338b52425094454cd07e6981b1.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdnts=st=1779075372~exp=1779078372~acl=/cmaf/live/2105536/ZeeTVELE/*~id=3ab0853f-35f6-4838-bf8f-20d96159aa79~data=non-ssai_3ab0853f-35f6-4838-bf8f-20d96159aa79~hmac=f90eb918c5c1a3a4842d1b3cae6d313b2e780fc4de0c524677d5faded002caa6&req_id=non-ssai_3ab0853f-35f6-4838-bf8f-20d96159aa79
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/list/1920x1080listef6865f9714b40139037d98300559cd7.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Anmol TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Anmol-SD/master/master.m3u8?hdnts=st=1779075372~exp=1779078372~acl=/out/v1/ZEE5_Live_Channels/Zee-Anmol-SD/master/*~id=9806c49a-4fe6-4bcf-971a-8691df4136e1~data=non-ssai_9806c49a-4fe6-4bcf-971a-8691df4136e1~hmac=78bfe92d4a47e82c53f85de3daf6b73cceeef72baa223ae1e8dcab726b665577&req_id=non-ssai_9806c49a-4fe6-4bcf-971a-8691df4136e1
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/list/1920x1080list5dd504da63d94665be555d032df9000c.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Yuva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdnts=st=1779075374~exp=1779078374~acl=/out/v1/ZEE5_Live_Channels/Zee-Yuva-SD/master/*~id=60314bff-9653-4e87-be60-eaa37e7db5bb~data=non-ssai_60314bff-9653-4e87-be60-eaa37e7db5bb~hmac=c071bced3fae567c31bdaf8f5cc182f04c789d7a70c1cc852f8da81c2788bd70&req_id=non-ssai_60314bff-9653-4e87-be60-eaa37e7db5bb
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/list/1920x1080listde632d881f1f4a879a94669005bb7256.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/master.m3u8?hdnts=st=1779075375~exp=1779078375~acl=/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/*~id=1bcd5767-8369-413d-b2f8-f28c19282f92~data=non-ssai_1bcd5767-8369-413d-b2f8-f28c19282f92~hmac=ae1e34da4b64f9f4a85a8c3c9941f84d5b852ae488147d23d8e7f6270efc2331&req_id=non-ssai_1bcd5767-8369-413d-b2f8-f28c19282f92
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/list/1920x1080list403630fe2cb2485db8bddad83245f88b.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdnts=st=1779075376~exp=1779078376~acl=/cmaf/live/2105552/ZeeCinemaELE/*~id=10a1e62c-7e25-4fea-8b98-8f15cfde6448~data=non-ssai_10a1e62c-7e25-4fea-8b98-8f15cfde6448~hmac=15f722c574495ccef9dc8f4c0d2d90f5aceb5cea21f5bf656684717b52aa349b&req_id=non-ssai_10a1e62c-7e25-4fea-8b98-8f15cfde6448
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/list/1920x1080list109ad06dd3c2485a97dbaddc85d22130.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/master.m3u8?hdnts=st=1779075377~exp=1779078377~acl=/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/*~id=cb947112-4bf7-4426-9cb4-3b0b38021ba6~data=non-ssai_cb947112-4bf7-4426-9cb4-3b0b38021ba6~hmac=eff41d1511f6ba5305130ec1ee631fe6a65865f9595587607d7dff83005c9f12&req_id=non-ssai_cb947112-4bf7-4426-9cb4-3b0b38021ba6
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1920x1080listfa46ad9c89684d268b5c141e7987de38.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Anmol-Cinema-SD/master/master.m3u8?hdnts=st=1779075377~exp=1779078377~acl=/out/v1/ZEE5_Live_Channels/Zee-Anmol-Cinema-SD/master/*~id=25e55c9b-6461-4a18-9b3f-caaa47ae299f~data=non-ssai_25e55c9b-6461-4a18-9b3f-caaa47ae299f~hmac=5b1c5b30f63260a4289d600d656675d6500d10b25e2bb13020bf0bea0a8d3874&req_id=non-ssai_25e55c9b-6461-4a18-9b3f-caaa47ae299f
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8?hdnts=st=1779075378~exp=1779078378~acl=/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/*~id=4b3c2a25-c17c-43a9-bc7b-48b55e44ab98~data=non-ssai_4b3c2a25-c17c-43a9-bc7b-48b55e44ab98~hmac=e7d92d85ffd8f5d3fec9d93d0818d7ba99aa09c1f9556b2b86f479b067b2de89&req_id=non-ssai_4b3c2a25-c17c-43a9-bc7b-48b55e44ab98
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383489/list/1920x1080list43aaeb0656a9484e855f731963eeeb20.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Talkies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdnts=st=1779075379~exp=1779078379~acl=/out/v1/ZEE5_Live_Channels/Zee-Talkies-SD/master/*~id=f5a7c357-4c2c-4349-acfa-9bde7bf20757~data=non-ssai_f5a7c357-4c2c-4349-acfa-9bde7bf20757~hmac=8f7df289e2cdb1c1be6bf31f291d3db447702a84eccda424d255962492e14e51&req_id=non-ssai_f5a7c357-4c2c-4349-acfa-9bde7bf20757
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zing-SD/master/master.m3u8?hdnts=st=1779075379~exp=1779078379~acl=/out/v1/ZEE5_Live_Channels/Zing-SD/master/*~id=ed2aab94-a7c7-41eb-a04e-094a11c96682~data=non-ssai_ed2aab94-a7c7-41eb-a04e-094a11c96682~hmac=fbd1905b6f3b1b4018fea3152207d127361032675b5075efeddaafa5fcc433ab&req_id=non-ssai_ed2aab94-a7c7-41eb-a04e-094a11c96682
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",&Pictures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdnts=st=1779075379~exp=1779078379~acl=/out/v1/ZEE5_Live_Channels/AND-PICTURES-SD/master/*~id=c5ce0cfb-7e92-4818-9785-59d750c3ba9f~data=non-ssai_c5ce0cfb-7e92-4818-9785-59d750c3ba9f~hmac=a6368524229ec52d610514b1ad4dd080d8a22129ed4f73ce74b5e260c2b1568c&req_id=non-ssai_c5ce0cfb-7e92-4818-9785-59d750c3ba9f
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee Biskope
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBiskopeELE/master.m3u8?hdnts=st=1779075380~exp=1779078380~acl=/out/v1/ZEE5_Live_Channels/Zee-Biskope-SD/master/*~id=4606b752-2093-4097-a62d-e5ff9f7bb7b0~data=non-ssai_4606b752-2093-4097-a62d-e5ff9f7bb7b0~hmac=a8d1b4d68f1161ddf86c3cb4949efe2247e576b8acc6d8d59e6fe2abd1785efe&req_id=non-ssai_4606b752-2093-4097-a62d-e5ff9f7bb7b0
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/list/1920x1080list2e097f784e864937856f4b15d577dea9.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Aaj Tak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdnts=st=1779075381~exp=1779078381~acl=/cmaf/live/2105503/AAJTAKHDNEWSELE/*~id=753a7e03-3055-442a-87ad-d9d56d3bcfb6~data=non-ssai_753a7e03-3055-442a-87ad-d9d56d3bcfb6~hmac=46b38e55fac2bfb589b948f30829fedda0a4833b6ebb500cee4f2373ae8cfbd4&req_id=non-ssai_753a7e03-3055-442a-87ad-d9d56d3bcfb6
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-251/list/1920x1080list3997067f8c194d3abd3abf17a183e85b.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",TV9 Bharatvarsh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2111481/TV9_Bharatvarsh/index-connected.m3u8?hdnts=st=1779075381~exp=1779078381~acl=/out/v1/ZEE5_Live_Channels/TV9-BHARATVARSH-HD/index/*~id=4f79d6fc-7a89-48dd-ae44-7596000f8694~data=non-ssai_4f79d6fc-7a89-48dd-ae44-7596000f8694~hmac=0e338af212c80fdc655f5240d22e46821cbbf613ef3a39e200464a8531516c7d&req_id=non-ssai_4f79d6fc-7a89-48dd-ae44-7596000f8694
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/list/1920x1080list6f46ce2b3345452aaf6486f1138faf55.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdnts=st=1779075381~exp=1779078381~acl=/cmaf/live/2105510/ZEENEWSELE/*~id=b5601f5c-6bd9-426d-82ba-d805467666c7~data=non-ssai_b5601f5c-6bd9-426d-82ba-d805467666c7~hmac=171aa512c989c4301ec1305713109049dcf08000f5551a1a9b02119f2f9a6503&req_id=non-ssai_b5601f5c-6bd9-426d-82ba-d805467666c7
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/list/1920x1080listf3b15afda8194c3a82c592963e562477.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Zee 24 Taas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdnts=st=1779075383~exp=1779078383~acl=/out/v1/ZEE5_Live_Channels/Zee-24Taas-News-SD/master/*~id=58df186c-e577-48ad-be3d-6a92963c4cb3~data=non-ssai_58df186c-e577-48ad-be3d-6a92963c4cb3~hmac=e68705e3ae4c1a59a218ce21bef2bbf4dd9ac16cef3b35e79c5a344919139470&req_id=non-ssai_58df186c-e577-48ad-be3d-6a92963c4cb3
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-257/list/1920x1080list5117a7ffa60f4fbb89e4a983d9ff1fd3.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",TV9 Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2111476/TV9_MARATHI/index-connected.m3u8?hdnts=st=1779075384~exp=1779078384~acl=/out/v1/ZEE5_Live_Channels/TV9-MARATHI-HD/index/*~id=ec99453d-c993-4ed0-82d0-a681b09917a5~data=non-ssai_ec99453d-c993-4ed0-82d0-a681b09917a5~hmac=6ccd5ee1cb3267f64ee405d5d39dcc2772818f50a1ed4430c6db6aaf7d1eb2b0&req_id=non-ssai_ec99453d-c993-4ed0-82d0-a681b09917a5
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-101-10z5588214/list/1170x658withlogofbf8f188fa714b538ff5dd8cb80e3bb5.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",India Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdnts=st=1779075387~exp=1779078387~acl=/out/v1/ZEE5_Live_Channels/India-Today-HD/index/*~id=5716af56-6f28-455b-a4c6-d5c4d1c31121~data=non-ssai_5716af56-6f28-455b-a4c6-d5c4d1c31121~hmac=e4725cf17d267d8216dd532c83f704deb1f7c91530a95ab35108f8d4750432f1&req_id=non-ssai_5716af56-6f28-455b-a4c6-d5c4d1c31121
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-261/list/1920x1080list3588bf1480f74af3ae326a0a99b250c6.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",News 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2111479/TV9_News9/index-connected.m3u8?hdnts=st=1779075386~exp=1779078386~acl=/out/v1/ZEE5_Live_Channels/TV9-NEWS9/index/*~id=a6b730a7-bd6f-47ff-a079-6fd1f0beca6a~data=non-ssai_a6b730a7-bd6f-47ff-a079-6fd1f0beca6a~hmac=32e07758751a65812de2e01e040f17c72f07b5090f08f74494373ffc306768a9&req_id=non-ssai_a6b730a7-bd6f-47ff-a079-6fd1f0beca6a
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-indiatoday/list/1920x1080list7688549badc94ac683c8575a9c294ccd.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",India Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdnts=st=1779075387~exp=1779078387~acl=/out/v1/ZEE5_Live_Channels/India-Today-HD/index/*~id=5716af56-6f28-455b-a4c6-d5c4d1c31121~data=non-ssai_5716af56-6f28-455b-a4c6-d5c4d1c31121~hmac=e4725cf17d267d8216dd532c83f704deb1f7c91530a95ab35108f8d4750432f1&req_id=non-ssai_5716af56-6f28-455b-a4c6-d5c4d1c31121
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-wion/list/1920x1080listd76e0469ed8b44c5baa119b3564e2f50.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",WION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdnts=st=1779075386~exp=1779078386~acl=/out/v1/ZEE5_Live_Channels/WION-News-SD/master/*~id=0ea06f98-2ce0-4760-bb37-dcffb6a9ce67~data=non-ssai_0ea06f98-2ce0-4760-bb37-dcffb6a9ce67~hmac=a152c6a1d3dfec7a6eff4989384982839401f7b62ae951e80db6275a9158a46f&req_id=non-ssai_0ea06f98-2ce0-4760-bb37-dcffb6a9ce67
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",Good News Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdnts=st=1779075388~exp=1779078388~acl=/out/v1/ZEE5_Live_Channels/Good-News-Today-HD/index/*~id=0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726~data=non-ssai_0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726~hmac=cbc2b1226a53827fc74f90537e97bc7affa5dc9fc82b6a5d4d65b83663213d85&req_id=non-ssai_0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019101/1780454020742287_VitalityBlast26_Mens_Somerset_vs_Glamorgan_3jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Somerset vs Glamorgan - 4 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000389/Vitality0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780641613~acl=/*~id=66928908472238857469931777350716~hmac=503c616f6e699242cb1404ec8163feab13ae547e6278710aae9db30bca8864d9
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
@@ -2946,3 +3265,1094 @@ https://keys.lrl45.workers.dev/mpd/3529
 # ======= CATEGORY: URDU =======
 #
 
+#EXTINF:-1 group-logo="" tvg-logo="https://od.lk/s/OV8yMTQ5MzMzMzRf/vt20.PNG" group-title="𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 | @𝙫𝙖𝙖𝙩𝙝𝙖𝙡𝙖1" ,
+https://example.com/video.m3u8   
+
+
+ _________  Adhu idhu yedhu   _______
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Rana Naidu",S02 EP01 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\Action\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)
+https://bq32.short.gy/series/AgADdx4813.mkv
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Rana Naidu",S02 EP02 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\Action\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)
+https://bq32.short.gy/series/68517cd8da68b73b2dc43e83.mkv
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Rana Naidu",S02 EP03 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\Action\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)
+https://bq32.short.gy/series/68517cd8da68b73b2dc43e87.mkv
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Rana Naidu",S02 EP04 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\Action\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)
+https://bq32.short.gy/series/68517cd8da68b73b2dc43e81.mkv
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Rana Naidu",S02 EP05 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\Action\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)
+https://bq32.short.gy/series/68517cd8da68b73b2dc43e80.mkv
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Rana Naidu",S02 EP06 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\Action\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)
+https://bq32.short.gy/series/68517cd8da68b73b2dc43e82.mkv
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Rana Naidu",S02 EP07 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\Action\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)
+https://bq32.short.gy/series/68517cd8da68b73b2dc43e86.mkv
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Rana Naidu",S02 EP08 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\Action\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)
+https://bq32.short.gy/series/68517cd8da68b73b2dc43e84.mkv
+
+# Ayyana Mane
+
+#EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-6-4z5735048/portrait/1920x7705a56fbac94394926beb06c008d943efae6ad539b16704a76b7fafff5b2c31b1b.jpg" group-title="Web series 🍿 | Ayyana Mane",S01 EP01 • Ayyana Mane (𝗜𝗠𝗗𝗯 7.3  2025 ‧ Suspense\Action\Thriller ‧ Stars Manasi Sudhir ‧ Akshay Nayak ‧ Kushee Ravi)
+https://bq32.short.gy/series/681ee97c60ff7a0c440e22b1.mkv
+
+#EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-6-4z5735048/portrait/1920x7705a56fbac94394926beb06c008d943efae6ad539b16704a76b7fafff5b2c31b1b.jpg" group-title="Web series 🍿 | Ayyana Mane",S01 EP02 • Ayyana Mane (𝗜𝗠𝗗𝗯 7.3  2025 ‧ Suspense\Action\Thriller ‧ Stars Manasi Sudhir ‧ Akshay Nayak ‧ Kushee Ravi)
+https://bq32.short.gy/series/681ee97d60ff7a0c440e22b3.mkv
+
+#EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-6-4z5735048/portrait/1920x7705a56fbac94394926beb06c008d943efae6ad539b16704a76b7fafff5b2c31b1b.jpg" group-title="Web series 🍿 | Ayyana Mane",S01 EP03 • Ayyana Mane (𝗜𝗠𝗗𝗯 7.3  2025 ‧ Suspense\Action\Thriller ‧ Stars Manasi Sudhir ‧ Akshay Nayak ‧ Kushee Ravi)
+https://bq32.short.gy/series/681ee97d60ff7a0c440e22b2.mkv
+
+#EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-6-4z5735048/portrait/1920x7705a56fbac94394926beb06c008d943efae6ad539b16704a76b7fafff5b2c31b1b.jpg" group-title="Web series 🍿 | Ayyana Mane",S01 EP04 • Ayyana Mane (𝗜𝗠𝗗𝗯 7.3  2025 ‧ Suspense\Action\Thriller ‧ Stars Manasi Sudhir ‧ Akshay Nayak ‧ Kushee Ravi)
+https://bq32.short.gy/series/681ee97d60ff7a0c440e22b6.mkv
+
+#EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-6-4z5735048/portrait/1920x7705a56fbac94394926beb06c008d943efae6ad539b16704a76b7fafff5b2c31b1b.jpg" group-title="Web series 🍿 | Ayyana Mane",S01 EP05 • Ayyana Mane (𝗜𝗠𝗗𝗯 7.3  2025 ‧ Suspense\Action\Thriller ‧ Stars Manasi Sudhir ‧ Akshay Nayak ‧ Kushee Ravi)
+https://bq32.short.gy/series/681ee97d60ff7a0c440e22b5.mkv
+
+#EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-6-4z5735048/portrait/1920x7705a56fbac94394926beb06c008d943efae6ad539b16704a76b7fafff5b2c31b1b.jpg" group-title="Web series 🍿 | Ayyana Mane",S01 EP06 • Ayyana Mane (𝗜𝗠𝗗𝗯 7.3  2025 ‧ Suspense\Action\Thriller ‧ Stars Manasi Sudhir ‧ Akshay Nayak ‧ Kushee Ravi)
+https://bq32.short.gy/series/681ee97d60ff7a0c440e22b4.mkv
+
+
+# Om Kali Jai Kali
+
+
+#EXTINF:-1  tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/254/1743100260254-v" group-title="Web series 🍿 | Om Kali Jai Kali",Om Kali Jai Kali • S01 EP01 (𝗜𝗠𝗗𝗯 7.4  2025 ‧ Action\Drama ‧ Stars Vimal ‧ Ramu Chellappa ‧ Pavani Reddy)
+https://bq32.short.gy/series/AgADvB4462.mkv
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/254/1743100260254-v" group-title="Web series 🍿 | Om Kali Jai Kali",Om Kali Jai Kali • S01 EP02 (𝗜𝗠𝗗𝗯 7.4  2025 ‧ Action\Drama ‧ Stars Vimal ‧ Ramu Chellappa ‧ Pavani Reddy)
+https://bq32.short.gy/series/AgADvR4464.mkv
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/254/1743100260254-v" group-title="Web series 🍿 | Om Kali Jai Kali",Om Kali Jai Kali • S01 EP03 (𝗜𝗠𝗗𝗯 7.4  2025 ‧ Action\Drama ‧ Stars Vimal ‧ Ramu Chellappa ‧ Pavani Reddy)
+https://bq32.short.gy/series/AgADvh4466.mkv
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/254/1743100260254-v" group-title="Web series 🍿 | Om Kali Jai Kali",Om Kali Jai Kali • S01 EP04 (𝗜𝗠𝗗𝗯 7.4  2025 ‧ Action\Drama ‧ Stars Vimal ‧ Ramu Chellappa ‧ Pavani Reddy)
+https://bq32.short.gy/series/AgADvx4468.mkv
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/254/1743100260254-v" group-title="Web series 🍿 | Om Kali Jai Kali",Om Kali Jai Kali • S01 EP05 (𝗜𝗠𝗗𝗯 7.4  2025 ‧ Action\Drama ‧ Stars Vimal ‧ Ramu Chellappa ‧ Pavani Reddy)
+https://bq32.short.gy/series/AgADwx4470.mkv
+
+# Suzhal - The Vortex2 
+
+#EXTINF:-1 tvg-id="" tvg-name="Suzhal - The Vortex2 S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Suzhal - The Vortex2",Suzhal - The Vortex2 • S02 EP01 (𝗜𝗠𝗗𝗯 8.1  2025 ‧ Crime\Drama\Thriller ‧ 8h 48m Creators Gayatri ‧ Pushkar| Stars Kathir ‧ Aishwarya Rajesh ‧ Lal)
+https://bq32.short.gy/series/67c6684f55ee0e47268b1f07.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Suzhal - The Vortex2 S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Suzhal - The Vortex2",Suzhal - The Vortex2 • EP02
+https://bq32.short.gy/series/67d563bbfa61d8d3f72ccb18.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Suzhal - The Vortex2 S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Suzhal - The Vortex2",Suzhal - The Vortex2 • EP03
+https://bq32.short.gy/series/67d563bbfa61d8d3f72ccb17.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Suzhal - The Vortex2 S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Suzhal - The Vortex2",Suzhal - The Vortex2 • EP04
+https://bq32.short.gy/series/67d563bbfa61d8d3f72ccb16.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Suzhal - The Vortex2 S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Suzhal - The Vortex2",Suzhal - The Vortex2 • EP05
+https://bq32.short.gy/series/67d563bcfa61d8d3f72ccb1c.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Suzhal - The Vortex2 S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Suzhal - The Vortex2",Suzhal - The Vortex2 • EP06
+https://bq32.short.gy/series/67d563bcfa61d8d3f72ccb1d.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Suzhal - The Vortex2 S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Suzhal - The Vortex2",Suzhal - The Vortex2 • EP07
+https://bq32.short.gy/series/67d563bcfa61d8d3f72ccb1a.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Suzhal - The Vortex2 S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Suzhal - The Vortex2",Suzhal - The Vortex2 • EP08
+https://bq32.short.gy/series/67d563bbfa61d8d3f72ccb19.mkv
+
+======================== SINGLE FILE 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc2ZGY4ZTItODE0Yi00M2JhLTg5MjMtZTFhN2QyNTE2ZWQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Web series 🍿 | Thalaivettiyaan Paalayam",Thalaivettiyaan Paalayam • S01 EP01-08 (𝗜𝗠𝗗𝗯 8.5  2024 ‧ Comedy ‧ 4h 10m Stars Abishek Kumar ‧ Chetan ‧ Devadarshini Chetan)
+https://bq32.short.gy/series/66ed68ed62e2743615b0dbba.mkv
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNkNjk2NDAtYmNlYi00YzYzLWJjY2QtYTM0MTE2M2YxY2E3XkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Golisoda Rising",Golisoda Rising • S01 EP05 (𝗜𝗠𝗗𝗯 8.7  2024 ‧ Drama\Action ‧ 45m Stars Abhirami ‧ Ramya Nambeeshan ‧ Avantika)
+https://bq32.short.gy/series/66f92da558d81e40df73b77d.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNkNjk2NDAtYmNlYi00YzYzLWJjY2QtYTM0MTE2M2YxY2E3XkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Golisoda Rising",Golisoda Rising • S01 EP04 (𝗜𝗠𝗗𝗯 8.7  2024 ‧ Drama\Action ‧ 45m Stars Abhirami ‧ Ramya Nambeeshan ‧ Avantika)
+https://bq32.short.gy/series/66ed6a6962e2743615b0dbbc.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNkNjk2NDAtYmNlYi00YzYzLWJjY2QtYTM0MTE2M2YxY2E3XkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Golisoda Rising",Golisoda Rising • S01 EP01-03 (𝗜𝗠𝗗𝗯 8.7  2024 ‧ Drama\Action ‧ 1h 37m Stars Abhirami ‧ Ramya Nambeeshan ‧ Avantika)
+https://bq32.short.gy/series/66e82b0737e397fa5818aca2.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkBpmndJ/pixelcut-export.jpg" group-title="Web series 🍿 | Bench Life",Bench Life • S01 EP01-05 (𝗜𝗠𝗗𝗯 7.2  2024 ‧ Drama\Thriller ‧ 3h 25m Stars  Aakanksha Singh ‧ Vaibhav Reddy ‧ Ritika Singh)
+https://bq32.short.gy/series/66e2e5dd74cb57e6512c41d5.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk4ZDc4OTUtYmE3Mi00M2IzLWJhZWMtZTRmZTc2YzZkOGRmXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | IC 814: The Kandahar Hijack",IC 814: The Kandahar Hijack • S01 EP01-06 (𝗜𝗠𝗗𝗯 7.2  2024 ‧ History\Drama\Thriller ‧ 4h 25m Creators Anubhav Sinha ‧ Trishant Srivastava| Stars Devas Dixit ‧ Harry Parmar ‧ Ellie Flory Fawcett)
+https://bq32.short.gy/series/66d3167629f5f69c89009a58.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk2YTEwMzItMTBiNC00N2Q1LTgxNjctOGFhM2VmM2QyNDFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Web series 🍿 | Manorathangal",Manorathangal • S01 EP01-09 (𝗜𝗠𝗗𝗯 0.0  2024 ‧ Comedy\Drama\Romance ‧ 6h 41m Stars Kamal Haasan ‧ Surabhi Lakshmi ‧ Fahadh Faasil)
+https://bq32.short.gy/series/66bdf44a6ec0dbb628b91046.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNjQwZWUtZmNmYy00ZWE2LWEzNzYtZWVkNDAzMzk4NTdhXkEyXkFqcGc@._V1_.jpg" group-title="Web series 🍿 | Chutney Sambar ",Chutney Sambar • S03 EP01-06 (𝗜𝗠𝗗𝗯 8.8  2024 ‧ Drama ‧ 3h 55m Stars Yogi Babu ‧ Vani Bhojan ‧ Krish Hassan)
+https://bq32.short.gy/series/66a620637fbc38a5e3faed3f.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jnf99Zjx/GRi-UA4-Rb0-AEgib-A.jpg" group-title="Web series 🍿 | Mirzapur",Mirzapur • S03 EP01-10 (𝗜𝗠𝗗𝗯 8.5  2024 ‧ Action\Crime\Drama ‧ 8h 25m Creators Puneet Krishna ‧ Karan Anshuman ‧ Apurva Dhar Badgaiyan|Stars Rasika Dugal ‧ Ali Fazal ‧ Shweta Tripathi)
+https://bq32.short.gy/series/668bc4e9026a1604c1005917.mkv
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/5407/1645407-v-7b84525a75fa" group-title="Web series 🍿 | Perilloor Premier League",Perilloor Premier League • S01 EP1-7 (2024 ‧ Comedy\Drama ‧ 4h 16m Stars Nikhila Vimal ‧ Aju Varghese ‧ Sunny Wayne)
+https://bq32.short.gy/series/665534382f2da74d33c934f2.mkv
+
+#EXTINF:-1 tvg-logo="https://picsxtra.com/images/2023/12/14/1920x770a605f1d9fd53484dab233243849b246f059b1a6d4dd3467281f8f5ea96a142fb.md.jpg" group-title="Web series 🍿 | Koose Munisamy Veerappan",Koose Munisamy Veerappan • S01 EP1-6 (Documentary |Crime | Biography | Thriller| EP01-06 ‧ 2023 ‧ 4h 24m)
+https://bq32.short.gy/series/665534382f2da74d33c934f3.mkv
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_100,w_1080/sources/r1/cms/prod/3369/1633369-v-8f8fef71de59" group-title="Web series 🍿 | Vadhuvu",Vadhuvu • S01 EP1-7 (Drama | Thriller  | 2023 ‧ 2h 32m Stars Nalla Sreedhar Reddy Gabbar ‧ Avika Gor ‧ Mounika)
+https://bq32.short.gy/series/665534382f2da74d33c934ef.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y2ZGRlYjgtMWEzNS00YzhhLWJiY2ItMTAxY2VjYTQzYmMzXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg?ssl=1" group-title="Web series 🍿 | Dhootha",Dhootha (Military and War | Drama| EP01-08 ‧ 2023 ‧ 5h 49m Stars Naga Chaitanya Akkineni ‧ Parvathy Thiruvothu ‧ Prachi Desai)
+https://bq32.short.gy/series/665534382f2da74d33c934f5.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_.jpg" group-title="Web series 🍿 | Scam 1992: The Harshad Mehta Story",Scam 1992: The Harshad Mehta Story • S01 EP1-5 (2024 ‧ Drama\Crime\biography ‧ 4h 18m Stars Pratik Gandhi ‧ Shreya Dhanwanthary ‧ Hemant Kher)
+https://bq32.short.gy/series/665ac0368c755ad0d55669b6.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_.jpg" group-title="Web series 🍿 | Scam 1992: The Harshad Mehta Story",Scam 1992: The Harshad Mehta Story • S01 EP6-10 (2024 ‧ Drama\Crime\biography ‧ 4h 27m Stars Pratik Gandhi ‧ Shreya Dhanwanthary ‧ Hemant Kher)
+https://bq32.short.gy/series/665abff58c755ad0d55669b5.mkv
+
+======================== Thalaimai Seyalagam
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVhYTI4NWYtYTAyNy00MjZlLWJhMzgtY2NmMmMwMWM2ZjUzXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg" group-title="Web series 🍿 | Thalaimai Seyalagam",Thalaimai Seyalagam • S01 EP1-8 (2024 ‧ Thriller| Stars  Kavitha Bharathi ‧ Santhana Bharathi ‧ Kishore Kumar G.)  
+https://bq32.short.gy/series/66592cbcf00d50d228a2b65c.mkv
+
+======================== Inspector Rishi
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE1N2RiZWItOWZjNC00YWFmLTg2NDEtMDljNmE2NjZjZDM0XkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_.jpg?ssl=1" group-title="Web series 🍿 | Label",Label • S01 EP EP01-10 (2023 ‧ Drama\Action ‧ 7h 30m)
+https://bq32.short.gy/series/665534382f2da74d33c934f7.mkv
+
+================== MATHAGAM
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4693/1614693-v-6a1544fa19c2" group-title="VT🎬| Web series",(EP1-5)Mathagam 2023
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4693/1614693-v-6a1544fa19c2" group-title="VT🎬| Web series",(EP6)Mathagam 2023
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4693/1614693-v-6a1544fa19c2" group-title="VT🎬| Web series",(EP7)Mathagam 2023
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4693/1614693-v-6a1544fa19c2" group-title="VT🎬| Web series",(EP8)Mathagam 2023
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4693/1614693-v-6a1544fa19c2" group-title="VT🎬| Web series",(EP9)Mathagam 2023
+
+
+          
+              
+                      _________ DISCOVERY LIVE _______
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",Discovery Channel
+https://vaathala00.github.io/hotstar/live/discovery/api/Discovery_Channel.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",Animal Planet
+https://vaathala00.github.io/hotstar/live/discovery/api/Animal_Planet.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",Discovery Science
+https://vaathala00.github.io/hotstar/live/discovery/api/Discovery_Science.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",TCL
+https://vaathala00.github.io/hotstar/live/discovery/api/TLC.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",Discovery Turbo
+https://vaathala00.github.io/hotstar/live/discovery/api/Discovery_Turbo.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",Investigation Discovery
+https://vaathala00.github.io/hotstar/live/discovery/api/Investigation_Discovery.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",Eurosport
+https://vaathala00.github.io/hotstar/live/discovery/api/Eurosport.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",DMAX
+https://vaathala00.github.io/hotstar/live/discovery/api/DMAX.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",TRVL Channel
+https://vaathala00.github.io/hotstar/live/discovery/api/TRVL_Channel.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",HGTV
+https://vaathala00.github.io/hotstar/live/discovery/api/HGTV.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",Food Network
+https://vaathala00.github.io/hotstar/live/discovery/api/Food Network.m3u8
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | Discovery",Discovery Kids
+https://vaathala00.github.io/hotstar/live/discovery/api/Discovery_Kids.m3u8
+
+
+                      _________ SONY LIV_______
+
+#EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-name="Sony Sab HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sab%20HD.m3u8
+
+#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/SET%20HD.m3u8
+
+#EXTINF:-1 tvg-id="Sony Pal.in" tvg-name="Sony Pal" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/hjYyDb13/sonypal.webp",Sony Pal
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Pal.m3u8
+
+#EXTINF:-1 tvg-id="Sony Wah.in" tvg-name="Sony WAH" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/HxJG9LSR/sonywah.webp",Sony Wah
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20WAH.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony Max
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20MAX.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",Sony Max HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Max%20HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-name="Sony MAX2" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/vm32jdgy/sonymax2.webp",Sony Max 2
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20MAX2.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" tvg-name="Sony Sports Ten 1" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",Sony TEN 1 SD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%201.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="Sony Sports Ten 1 HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",Sony TEN 1 HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%201%20HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" tvg-name="Sony Sports Ten 2" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/027s4b8q/sonysportsten2.webp",Sony TEN 2 SD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%202.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-name="Sony Sports Ten 2 HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",Sony TEN 2 HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%202%20HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-name="Sony Sports Ten 3" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",Sony TEN 3 SD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%203.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-name="Sony Sports Ten 3 HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",Sony TEN 3 HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%203%20HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-name="Sony Sports Ten 4" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 SD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%204.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-name="Sony Sports Ten 4 HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%204%20HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" tvg-name="Sony Sports Ten 5" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",Sony TEN 5 SD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%205.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="Sony Sports Ten 5 HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",Sony TEN 5 HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sports%20Ten%205%20HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY BBC Earth HD.in" tvg-name="Sony BBC Earth HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",Sony BBC Earth HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20BBC%20Earth%20HD.m3u8
+
+#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel",Sony Marathii
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Marathi.m3u8
+
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" group-logo="" tvg-id="194387" tvg-language="Marathi" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg",Sun Marathi
+https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+#EXTINF:-1 tvg-id="No details available" tvg-name="24/7 CAILLOU 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",24/7 CAILLOU 4K
+https://vt-ip.vodep39240327.workers.dev/1608.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="24/7 PAW PETROL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",24/7 PAW PETROL 4K
+https://vt-ip.vodep39240327.workers.dev/1609.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="24/7 PJ MASKS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",24/7 PJ MASKS 4K
+https://vt-ip.vodep39240327.workers.dev/1611.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="NURSERY RHYMES 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",NURSERY RHYMES 4K
+https://vt-ip.vodep39240327.workers.dev/1612.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BABIES RHYMES 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",BABIES RHYMES 4K
+https://vt-ip.vodep39240327.workers.dev/1613.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="KIDS PPV MOVIES 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",KIDS PPV MOVIES 4K
+https://vt-ip.vodep39240327.workers.dev/1861.m3u8
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="STARZ KIDS & FAMILY US 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",STARZ KIDS & FAMILY US 4K
+https://vt-ip.vodep39240327.workers.dev/1860.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SKY MOVIES DISNEY 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",SKY MOVIES DISNEY 4K
+https://vt-ip.vodep39240327.workers.dev/220.m3u8
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SKY CINEMA FAMILY 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",SKY CINEMA FAMILY 4K
+https://vt-ip.vodep39240327.workers.dev/221.m3u8
+#EXTINF:-1 tvg-id="babytv.us" tvg-name="BABY TV HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",BABY TV HD
+https://vt-ip.vodep39240327.workers.dev/2378.m3u8
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="BABYTV HD UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",BABYTV HD UK
+https://vt-ip.vodep39240327.workers.dev/2379.m3u8
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="BABY FIRST 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",BABY FIRST 4K
+https://vt-ip.vodep39240327.workers.dev/217.m3u8
+#EXTINF:-1 tvg-id="familyjr.ca" tvg-name="FAMILY JR 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",FAMILY JR 4K
+https://vt-ip.vodep39240327.workers.dev/218.m3u8
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="TREE HOUSE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",TREE HOUSE 4K
+https://vt-ip.vodep39240327.workers.dev/222.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="DISNEY JR US HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",DISNEY JR US HD
+https://vt-ip.vodep39240327.workers.dev/223.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="DISNEY JR CA HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",DISNEY JR CA HD
+https://vt-ip.vodep39240327.workers.dev/2725.m3u8
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBEEBIES HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",CBEEBIES HD
+https://vt-ip.vodep39240327.workers.dev/228.m3u8
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="FREEFORM HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",FREEFORM HD
+https://vt-ip.vodep39240327.workers.dev/1874.m3u8
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="DISNEY XD US HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",DISNEY XD US HD
+https://vt-ip.vodep39240327.workers.dev/2395.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",NICKELODEON US
+https://vt-ip.vodep39240327.workers.dev/229.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",CARTOON NETWORK HD
+https://vt-ip.vodep39240327.workers.dev/230.m3u8
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="TELE TOON HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",TELE TOON HD
+https://vt-ip.vodep39240327.workers.dev/231.m3u8
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL US HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",DISNEY CHANNEL US HD
+https://vt-ip.vodep39240327.workers.dev/232.m3u8
+#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="DISNEY CHANNEL CA HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",DISNEY CHANNEL CA HD
+https://vt-ip.vodep39240327.workers.dev/234.m3u8
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NICKTOON US HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",NICKTOON US HD
+https://vt-ip.vodep39240327.workers.dev/237.m3u8
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="NICKTOON HD UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",NICKTOON HD UK
+https://vt-ip.vodep39240327.workers.dev/238.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="NICKELODEON UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",NICKELODEON UK
+https://vt-ip.vodep39240327.workers.dev/239.m3u8
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="NICK HD INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",NICK HD INDIA
+https://vt-ip.vodep39240327.workers.dev/240.m3u8
+#EXTINF:-1 tvg-id="ytv.ca" tvg-name="YTV HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",YTV HD
+https://vt-ip.vodep39240327.workers.dev/241.m3u8
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS KIDS HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",PBS KIDS HD
+https://vt-ip.vodep39240327.workers.dev/242.m3u8
+#EXTINF:-1 tvg-id="tvo.ca" tvg-name="TVO KIDS HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",TVO KIDS HD
+https://vt-ip.vodep39240327.workers.dev/243.m3u8
+#EXTINF:-1 tvg-id="familychannel.ca" tvg-name="FAMILY CHANNEL CA HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",FAMILY CHANNEL CA HD
+https://vt-ip.vodep39240327.workers.dev/244.m3u8
+#EXTINF:-1 tvg-id="chrgd.ca" tvg-name="WILD BRAIN TV 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",WILD BRAIN TV 4K
+https://vt-ip.vodep39240327.workers.dev/2544.m3u8
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="DISCOVERY FAMILY HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",DISCOVERY FAMILY HD
+https://vt-ip.vodep39240327.workers.dev/246.m3u8
+#EXTINF:-1 tvg-id="rtejr.ie" tvg-name="RTE JUNIOR" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",RTE JUNIOR
+https://vt-ip.vodep39240327.workers.dev/247.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="CARTOON NETWORK UK HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",CARTOON NETWORK UK HD
+https://vt-ip.vodep39240327.workers.dev/248.m3u8
+#EXTINF:-1 tvg-id="adultswim.ca" tvg-name="ADULT SWIM 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",ADULT SWIM 4K
+https://vt-ip.vodep39240327.workers.dev/2380.m3u8
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="DISNEY HD INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",DISNEY HD INDIA
+https://vt-ip.vodep39240327.workers.dev/2546.m3u8
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="CARTOON NETWORK INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",CARTOON NETWORK INDIA
+https://vt-ip.vodep39240327.workers.dev/249.m3u8
+#EXTINF:-1 tvg-id="pogo.in" tvg-name="POGO INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",POGO INDIA
+https://vt-ip.vodep39240327.workers.dev/250.m3u8
+#EXTINF:-1 tvg-id="hungama.in" tvg-name="HUNGAMA TV INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |KIDS",HUNGAMA TV INDIA
+https://vt-ip.vodep39240327.workers.dev/251.m3u8
+#EXTINF:-1 tvg-id="I150.82541.schedulesdirect.org" tvg-name="FOX SPORTS1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",FOX SPORTS1 4K
+https://vt-ip.vodep39240327.workers.dev/253.m3u8
+#EXTINF:-1 tvg-id="I397.33178.schedulesdirect.org" tvg-name="FOX SPORTS2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",FOX SPORTS2 4K
+https://vt-ip.vodep39240327.workers.dev/252.m3u8
+#EXTINF:-1 tvg-id="I140.10179.schedulesdirect.org" tvg-name="ESPN 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",ESPN 4K
+https://vt-ip.vodep39240327.workers.dev/254.m3u8
+#EXTINF:-1 tvg-id="I143.12444.schedulesdirect.org" tvg-name="ESPN2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",ESPN2 4K
+https://vt-ip.vodep39240327.workers.dev/255.m3u8
+#EXTINF:-1 tvg-id="I142.16485.schedulesdirect.org" tvg-name="ESPN NEWS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",ESPN NEWS 4K
+https://vt-ip.vodep39240327.workers.dev/257.m3u8
+#EXTINF:-1 tvg-id="I141.60696.schedulesdirect.org" tvg-name="ESPNU 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",ESPNU 4K
+https://vt-ip.vodep39240327.workers.dev/256.m3u8
+#EXTINF:-1 tvg-id="I400.11182.schedulesdirect.org" tvg-name="TSN1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TSN1 4K
+https://vt-ip.vodep39240327.workers.dev/258.m3u8
+#EXTINF:-1 tvg-id="I401.18990.schedulesdirect.org" tvg-name="TSN2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TSN2 4K
+https://vt-ip.vodep39240327.workers.dev/259.m3u8
+#EXTINF:-1 tvg-id="I402.90118.schedulesdirect.org" tvg-name="TSN3 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TSN3 4K
+https://vt-ip.vodep39240327.workers.dev/260.m3u8
+#EXTINF:-1 tvg-id="I403.90122.schedulesdirect.org" tvg-name="TSN4 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TSN4 4K
+https://vt-ip.vodep39240327.workers.dev/261.m3u8
+#EXTINF:-1 tvg-id="I404.90124.schedulesdirect.org" tvg-name="TSN5 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TSN5 4K
+https://vt-ip.vodep39240327.workers.dev/262.m3u8
+#EXTINF:-1 tvg-id="I405.18799.schedulesdirect.org" tvg-name="SN ONTARIO 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SN ONTARIO 4K
+https://vt-ip.vodep39240327.workers.dev/264.m3u8
+#EXTINF:-1 tvg-id="I406.18798.schedulesdirect.org" tvg-name="SN EAST 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SN EAST 4K
+https://vt-ip.vodep39240327.workers.dev/263.m3u8
+#EXTINF:-1 tvg-id="I409.68858.schedulesdirect.org" tvg-name="SN1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SN1 4K
+https://vt-ip.vodep39240327.workers.dev/265.m3u8
+#EXTINF:-1 tvg-id="I410.20203.schedulesdirect.org" tvg-name="SN 360 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SN 360 4K
+https://vt-ip.vodep39240327.workers.dev/266.m3u8
+#EXTINF:-1 tvg-id="I420.57735.schedulesdirect.org" tvg-name="SN WORLD 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SN WORLD 4K
+https://vt-ip.vodep39240327.workers.dev/267.m3u8
+#EXTINF:-1 tvg-id="I407.18801.schedulesdirect.org" tvg-name="SN PACIFIC 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SN PACIFIC 4K
+https://vt-ip.vodep39240327.workers.dev/268.m3u8
+#EXTINF:-1 tvg-id="I408.18800.schedulesdirect.org" tvg-name="SN WEST 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SN WEST 4K
+https://vt-ip.vodep39240327.workers.dev/269.m3u8
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="SEC NETWORK US 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SEC NETWORK US 4K
+https://vt-ip.vodep39240327.workers.dev/2470.m3u8
+#EXTINF:-1 tvg-id="I156.32281.schedulesdirect.org" tvg-name="NBA TV 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",NBA TV 4K
+https://vt-ip.vodep39240327.workers.dev/270.m3u8
+#EXTINF:-1 tvg-id="I152.62079.schedulesdirect.org" tvg-name="MLB NETWORK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",MLB NETWORK 4K
+https://vt-ip.vodep39240327.workers.dev/271.m3u8
+#EXTINF:-1 tvg-id="I157.58570.schedulesdirect.org" tvg-name="NHL NETWORK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",NHL NETWORK 4K
+https://vt-ip.vodep39240327.workers.dev/272.m3u8
+#EXTINF:-1 tvg-id="I154.34710.schedulesdirect.org" tvg-name="NFL NETWORK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",NFL NETWORK 4K
+https://vt-ip.vodep39240327.workers.dev/273.m3u8
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="MARQUEE SPORTS NETWORK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",MARQUEE SPORTS NETWORK 4K
+https://vt-ip.vodep39240327.workers.dev/2731.m3u8
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-name="WWE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",WWE 4K
+https://vt-ip.vodep39240327.workers.dev/275.m3u8
+#EXTINF:-1 tvg-id="I1445.48099.schedulesdirect.org" tvg-name="FIGHT NETWORK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",FIGHT NETWORK 4K
+https://vt-ip.vodep39240327.workers.dev/276.m3u8
+#EXTINF:-1 tvg-id="I400.60316.schedulesdirect.org" tvg-name="TENNIS CHANNEL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TENNIS CHANNEL 4K
+https://vt-ip.vodep39240327.workers.dev/278.m3u8
+#EXTINF:-1 tvg-id="I158.59250.schedulesdirect.org" tvg-name="CBS SN 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",CBS SN 4K
+https://vt-ip.vodep39240327.workers.dev/277.m3u8
+#EXTINF:-1 tvg-id="I416.65384.schedulesdirect.org" tvg-name="NBC GOLF 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",NBC GOLF 4K
+https://vt-ip.vodep39240327.workers.dev/279.m3u8
+#EXTINF:-1 tvg-id="I405.58321.schedulesdirect.org" tvg-name="BTN 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BTN 4K
+https://vt-ip.vodep39240327.workers.dev/280.m3u8
+#EXTINF:-1 tvg-id="I1412.91308.schedulesdirect.org" tvg-name="BEIN SPORTS USA 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORTS USA 4K
+https://vt-ip.vodep39240327.workers.dev/2212.m3u8
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="BEIN SPORTS SPANISH HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORTS SPANISH HD
+https://vt-ip.vodep39240327.workers.dev/2585.m3u8
+#EXTINF:-1 tvg-id="I712.68605.schedulesdirect.org" tvg-name="WILLOW CRICKET 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",WILLOW CRICKET 4K
+https://vt-ip.vodep39240327.workers.dev/2027.m3u8
+#EXTINF:-1 tvg-id="I722.100316.schedulesdirect.org" tvg-name="WILLOW CRICKET EXTRA 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",WILLOW CRICKET EXTRA 4K
+https://vt-ip.vodep39240327.workers.dev/2025.m3u8
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",STAR SPORTS 1 HINDI 4K
+https://vt-ip.vodep39240327.workers.dev/1965.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",STAR SPORTS 2 4K
+https://vt-ip.vodep39240327.workers.dev/1446.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",STAR SPORTS SELECT 1 4K
+https://vt-ip.vodep39240327.workers.dev/1444.m3u8
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-name="STAR SPORTS SELECT 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",STAR SPORTS SELECT 2 4K
+https://vt-ip.vodep39240327.workers.dev/1448.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="A SPORTS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",A SPORTS 4K
+https://vt-ip.vodep39240327.workers.dev/2428.m3u8
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SONY TEN 1 4K
+https://vt-ip.vodep39240327.workers.dev/294.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SONY TEN 2 4K
+https://vt-ip.vodep39240327.workers.dev/297.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SONY TEN 3 4K
+https://vt-ip.vodep39240327.workers.dev/298.m3u8
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SONY TEN 5 4K
+https://vt-ip.vodep39240327.workers.dev/299.m3u8
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",DD SPORTS HD
+https://vt-ip.vodep39240327.workers.dev/2604.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GEO SUPER" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",GEO SUPER
+https://vt-ip.vodep39240327.workers.dev/302.m3u8
+#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV SPORTS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",PTV SPORTS
+https://vt-ip.vodep39240327.workers.dev/303.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TEN SPORTS 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TEN SPORTS 4K*
+https://vt-ip.vodep39240327.workers.dev/304.m3u8
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="SKY SPORTS BOX OFFICE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS BOX OFFICE 4K
+https://vt-ip.vodep39240327.workers.dev/2453.m3u8
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS MAIN 4K
+https://vt-ip.vodep39240327.workers.dev/1959.m3u8
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS CRICKET 4K
+https://vt-ip.vodep39240327.workers.dev/1960.m3u8
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="SKY SPORTS ACTION 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS ACTION 4K
+https://vt-ip.vodep39240327.workers.dev/1961.m3u8
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="SKY SPORTS GOLF 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS GOLF 4K
+https://vt-ip.vodep39240327.workers.dev/1962.m3u8
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS PREMIER LEAGUE 4K
+https://vt-ip.vodep39240327.workers.dev/1963.m3u8
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="SKY SPORTS TENNIS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS TENNIS 4K
+https://vt-ip.vodep39240327.workers.dev/1967.m3u8
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="SKY SPORTS FOOTBALL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS FOOTBALL 4K
+https://vt-ip.vodep39240327.workers.dev/1968.m3u8
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="SKY SPORTS MIX 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS MIX 4K
+https://vt-ip.vodep39240327.workers.dev/1969.m3u8
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="SKY SPORTS F1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS F1 4K
+https://vt-ip.vodep39240327.workers.dev/288.m3u8
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS NEWS
+https://vt-ip.vodep39240327.workers.dev/289.m3u8
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="SKY SPORTS + 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SKY SPORTS + 4K
+https://vt-ip.vodep39240327.workers.dev/2452.m3u8
+#EXTINF:-1 tvg-id="tntsportboxoffice1.uk" tvg-name="TNT SPORTS BOX OFFICE 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TNT SPORTS BOX OFFICE 1 4K
+https://vt-ip.vodep39240327.workers.dev/2449.m3u8
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT SPORTS 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TNT SPORTS 1 4K
+https://vt-ip.vodep39240327.workers.dev/312.m3u8
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="TNT SPORTS 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TNT SPORTS 2 4K
+https://vt-ip.vodep39240327.workers.dev/313.m3u8
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="TNT SPORTS 3 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TNT SPORTS 3 4K
+https://vt-ip.vodep39240327.workers.dev/314.m3u8
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="TNT SPORTS 4 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",TNT SPORTS 4 4K
+https://vt-ip.vodep39240327.workers.dev/2451.m3u8
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="RACING CHANNEL 4K UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",RACING CHANNEL 4K UK
+https://vt-ip.vodep39240327.workers.dev/317.m3u8
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="AT THE RACES UK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",AT THE RACES UK 4K
+https://vt-ip.vodep39240327.workers.dev/318.m3u8
+#EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="OLYMPICS CHANNEL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",OLYMPICS CHANNEL 4K
+https://vt-ip.vodep39240327.workers.dev/2406.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="SPORTS 18 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SPORTS 18 4K
+https://vt-ip.vodep39240327.workers.dev/2719.m3u8
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="STAR SPORTS 3" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",STAR SPORTS 3
+https://vt-ip.vodep39240327.workers.dev/2876.m3u8
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="ACC NETWORK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",ACC NETWORK 4K
+https://vt-ip.vodep39240327.workers.dev/3966.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORT 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 1 4K
+https://vt-ip.vodep39240327.workers.dev/326.m3u8
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORT 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 2 4K
+https://vt-ip.vodep39240327.workers.dev/327.m3u8
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORT 3 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 3 4K
+https://vt-ip.vodep39240327.workers.dev/328.m3u8
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORT 4 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 4 4K
+https://vt-ip.vodep39240327.workers.dev/329.m3u8
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORT 5 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 5 4K
+https://vt-ip.vodep39240327.workers.dev/330.m3u8
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORT 6 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 6 4K
+https://vt-ip.vodep39240327.workers.dev/331.m3u8
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORT 7 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 7 4K
+https://vt-ip.vodep39240327.workers.dev/332.m3u8
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORT 8 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 8 4K
+https://vt-ip.vodep39240327.workers.dev/2605.m3u8
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORT 9 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 9 4K
+https://vt-ip.vodep39240327.workers.dev/2606.m3u8
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORT 1 EN 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 1 EN 4K
+https://vt-ip.vodep39240327.workers.dev/2209.m3u8
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORT 2 EN 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN SPORT 2 EN 4K
+https://vt-ip.vodep39240327.workers.dev/2608.m3u8
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN EXTRA 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN EXTRA 1 4K
+https://vt-ip.vodep39240327.workers.dev/2609.m3u8
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN EXTRA 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN EXTRA 2 4K
+https://vt-ip.vodep39240327.workers.dev/2610.m3u8
+#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN EXTRA 3 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",BEIN EXTRA 3 4K
+https://vt-ip.vodep39240327.workers.dev/2611.m3u8
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="SUPERSPORT ACTION 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT ACTION 4K
+https://vt-ip.vodep39240327.workers.dev/1990.m3u8
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="SUPERSPORT BLITZ 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT BLITZ 4K
+https://vt-ip.vodep39240327.workers.dev/1991.m3u8
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SUPERSPORT CRICKET 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT CRICKET 4K
+https://vt-ip.vodep39240327.workers.dev/1992.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SUPERSPORT EVENTS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT EVENTS 4K
+https://vt-ip.vodep39240327.workers.dev/1993.m3u8
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="SUPERSPORT FOOTBALL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT FOOTBALL 4K
+https://vt-ip.vodep39240327.workers.dev/1994.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SUPERSPORT FOOTBALL PLUS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT FOOTBALL PLUS 4K
+https://vt-ip.vodep39240327.workers.dev/1995.m3u8
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SUPERSPORT GOLF 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT GOLF 4K
+https://vt-ip.vodep39240327.workers.dev/1996.m3u8
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="SUPERSPORT GRANDSTAND 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT GRANDSTAND 4K
+https://vt-ip.vodep39240327.workers.dev/1997.m3u8
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SUPERSPORT LA LIGA 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT LA LIGA 4K
+https://vt-ip.vodep39240327.workers.dev/1998.m3u8
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="SUPERSPORT MAXIMO 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT MAXIMO 4K
+https://vt-ip.vodep39240327.workers.dev/1999.m3u8
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="SUPERSPORT MOTORSPORT 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT MOTORSPORT 4K
+https://vt-ip.vodep39240327.workers.dev/2000.m3u8
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SUPERSPORT PREMIER LEAGUE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT PREMIER LEAGUE 4K
+https://vt-ip.vodep39240327.workers.dev/2001.m3u8
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="SUPERSPORT PSL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT PSL 4K
+https://vt-ip.vodep39240327.workers.dev/2002.m3u8
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="SUPERSPORT RUGBY 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT RUGBY 4K
+https://vt-ip.vodep39240327.workers.dev/2003.m3u8
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="SUPERSPORT TENNIS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT TENNIS 4K
+https://vt-ip.vodep39240327.workers.dev/2004.m3u8
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SUPERSPORT VARIETY 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT VARIETY 1 4K
+https://vt-ip.vodep39240327.workers.dev/2005.m3u8
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SUPERSPORT VARIETY 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT VARIETY 2 4K
+https://vt-ip.vodep39240327.workers.dev/2006.m3u8
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="SUPERSPORT VARIETY 3 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT VARIETY 3 4K
+https://vt-ip.vodep39240327.workers.dev/2007.m3u8
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="SUPERSPORT VARIETY 4 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SUPERSPORT VARIETY 4 4K
+https://vt-ip.vodep39240327.workers.dev/2008.m3u8
+#EXTINF:-1 tvg-id="I413.106713.schedulesdirect.org" tvg-name="REV TV 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",REV TV 4K
+https://vt-ip.vodep39240327.workers.dev/2874.m3u8
+#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="HPITV 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",HPITV 4K
+https://vt-ip.vodep39240327.workers.dev/2502.m3u8
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="LFCTV 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",LFCTV 4K
+https://vt-ip.vodep39240327.workers.dev/2386.m3u8
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="THE COWBOY CHANNEL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",THE COWBOY CHANNEL 4K
+https://vt-ip.vodep39240327.workers.dev/2615.m3u8
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="FUBO SPORTS NETWORK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",FUBO SPORTS NETWORK 4K
+https://vt-ip.vodep39240327.workers.dev/2521.m3u8
+#EXTINF:-1 tvg-id="premier1.uk" tvg-name="PREMIER SPORTS 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",PREMIER SPORTS 1 4K
+https://vt-ip.vodep39240327.workers.dev/2217.m3u8
+#EXTINF:-1 tvg-id="premier2.uk" tvg-name="PREMIER SPORTS 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",PREMIER SPORTS 2 4K
+https://vt-ip.vodep39240327.workers.dev/2450.m3u8
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="EURO SPORT 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",EURO SPORT 1 4K
+https://vt-ip.vodep39240327.workers.dev/310.m3u8
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="EURO SPORT 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",EURO SPORT 2 4K
+https://vt-ip.vodep39240327.workers.dev/311.m3u8
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="MUTV 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",MUTV 4K
+https://vt-ip.vodep39240327.workers.dev/2581.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="RED BULL TV 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",RED BULL TV 4K
+https://vt-ip.vodep39240327.workers.dev/2752.m3u8
+#EXTINF:-1 tvg-id="fandueltv.us" tvg-name="FANDUEL TV US 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",FANDUEL TV US 4K
+https://vt-ip.vodep39240327.workers.dev/2571.m3u8
+#EXTINF:-1 tvg-id="fanduelracing.us" tvg-name="FANDUEL RACING US 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",FANDUEL RACING US 4K
+https://vt-ip.vodep39240327.workers.dev/2572.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SPECTRUM SURF CHANNEL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",SPECTRUM SURF CHANNEL 4K
+https://vt-ip.vodep39240327.workers.dev/2503.m3u8
+#EXTINF:-1 tvg-id="msg.us" tvg-name="MSG US 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",MSG US 4K
+https://vt-ip.vodep39240327.workers.dev/2687.m3u8
+#EXTINF:-1 tvg-id="msg2.us" tvg-name="MSG2 US 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",MSG2 US 4K
+https://vt-ip.vodep39240327.workers.dev/2688.m3u8
+#EXTINF:-1 tvg-id="msgsnplus.us" tvg-name="MSGSN 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",MSGSN 4K
+https://vt-ip.vodep39240327.workers.dev/2690.m3u8
+#EXTINF:-1 tvg-id="msgsnplus2.us" tvg-name="MSGSN2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",MSGSN2 4K
+https://vt-ip.vodep39240327.workers.dev/2691.m3u8
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="MOTOR TREND 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS",MOTOR TREND 4K
+https://vt-ip.vodep39240327.workers.dev/2700.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BIGG BOSS HINDI 24HRS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BIGG BOSS HINDI 24HRS 4K
+https://vt-ip.vodep39240327.workers.dev/2877.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="HINDI HITS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",HINDI HITS 4K
+https://vt-ip.vodep39240327.workers.dev/1958.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BOLLYWOOD ALL DAY MOVIE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BOLLYWOOD ALL DAY MOVIE 4K
+https://vt-ip.vodep39240327.workers.dev/2525.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BOLLYWOOD NON STOP 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BOLLYWOOD NON STOP 4K
+https://vt-ip.vodep39240327.workers.dev/2250.m3u8
+#EXTINF:-1 tvg-id="4485219191919" tvg-name="PREMIUM HINDI MOVIES 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",PREMIUM HINDI MOVIES 1 4K
+https://vt-ip.vodep39240327.workers.dev/2537.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PREMIUM HINDI MOVIES 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",PREMIUM HINDI MOVIES 2 4K
+https://vt-ip.vodep39240327.workers.dev/2536.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PREMIUM HINDI MOVIES 3 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",PREMIUM HINDI MOVIES 3 4K
+https://vt-ip.vodep39240327.workers.dev/2535.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PREMIUM HINDI MOVIES 4 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",PREMIUM HINDI MOVIES 4 4K
+https://vt-ip.vodep39240327.workers.dev/2534.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PREMIUM HINDI MOVIES 5 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",PREMIUM HINDI MOVIES 5 4K
+https://vt-ip.vodep39240327.workers.dev/2532.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PREMIUM HINDI MOVIES 6 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",PREMIUM HINDI MOVIES 6 4K
+https://vt-ip.vodep39240327.workers.dev/2531.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PREMIUM HINDI MOVIES 7 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",PREMIUM HINDI MOVIES 7 4K
+https://vt-ip.vodep39240327.workers.dev/2530.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BOLLYWOOD CLASSIC MOVIES 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BOLLYWOOD CLASSIC MOVIES 4K
+https://vt-ip.vodep39240327.workers.dev/2538.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BOLLYWOOD SOUTH DUB 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BOLLYWOOD SOUTH DUB 4K
+https://vt-ip.vodep39240327.workers.dev/2539.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BOLLYWOOD ENG DUB 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BOLLYWOOD ENG DUB 4K
+https://vt-ip.vodep39240327.workers.dev/2540.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BOLLYWOOD PREMIER HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BOLLYWOOD PREMIER HD
+https://vt-ip.vodep39240327.workers.dev/2253.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE CINEMA 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CINEMA 4K USA
+https://vt-ip.vodep39240327.workers.dev/388.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE CINEMA 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CINEMA 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/389.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE CINEMA 4K APAC" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CINEMA 4K APAC
+https://vt-ip.vodep39240327.workers.dev/1818.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AND XPLOR 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AND XPLOR 4K
+https://vt-ip.vodep39240327.workers.dev/1823.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AND XPLOR USA 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AND XPLOR USA 4K
+https://vt-ip.vodep39240327.workers.dev/2020.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MOVIES ACTIVE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MOVIES ACTIVE 4K
+https://vt-ip.vodep39240327.workers.dev/2251.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD 2 4K
+https://vt-ip.vodep39240327.workers.dev/2522.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/390.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD SELECT 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD SELECT 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/391.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY PIX 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY PIX 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/392.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AND MOVIES 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AND MOVIES 4K USA
+https://vt-ip.vodep39240327.workers.dev/393.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AND MOVIES 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AND MOVIES 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/394.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY MAX 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY MAX 4K
+https://vt-ip.vodep39240327.workers.dev/397.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY MAX 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY MAX 4K USA
+https://vt-ip.vodep39240327.workers.dev/395.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY MAX 4K APAC" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY MAX 4K APAC
+https://vt-ip.vodep39240327.workers.dev/1700.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY MAX 4K UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY MAX 4K UK
+https://vt-ip.vodep39240327.workers.dev/1701.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="CINEPLEX 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",CINEPLEX 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/1702.m3u8
+#EXTINF:-1 tvg-id="I694.19283.schedulesdirect.org" tvg-name="ZEE TV 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE TV 4K USA
+https://vt-ip.vodep39240327.workers.dev/1428.m3u8
+#EXTINF:-1 tvg-id="I695.18644.schedulesdirect.org" tvg-name="SONY 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY 4K USA
+https://vt-ip.vodep39240327.workers.dev/1429.m3u8
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="STAR PLUS 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR PLUS 4K USA
+https://vt-ip.vodep39240327.workers.dev/1430.m3u8
+#EXTINF:-1 tvg-id="I697.65128.schedulesdirect.org" tvg-name="AAPKA COLORS 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AAPKA COLORS 4K USA
+https://vt-ip.vodep39240327.workers.dev/413.m3u8
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="ZEE TV 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE TV 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/400.m3u8
+#EXTINF:-1 tvg-id="I679.79632.schedulesdirect.org" tvg-name="ZEE TV 4K CANADA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE TV 4K CANADA
+https://vt-ip.vodep39240327.workers.dev/1703.m3u8
+#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="ZEE TV 4K UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE TV 4K UK
+https://vt-ip.vodep39240327.workers.dev/401.m3u8
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/404.m3u8
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="SONY 4K UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY 4K UK
+https://vt-ip.vodep39240327.workers.dev/405.m3u8
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="STAR PLUS 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR PLUS 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/409.m3u8
+#EXTINF:-1 tvg-id="starplus.uk" tvg-name="STAR PLUS 4K UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR PLUS 4K UK
+https://vt-ip.vodep39240327.workers.dev/410.m3u8
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="COLORS 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",COLORS 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/415.m3u8
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="COLORS 4K UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",COLORS 4K UK
+https://vt-ip.vodep39240327.workers.dev/414.m3u8
+#EXTINF:-1 tvg-id="andtv.in" tvg-name="AND TV 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AND TV 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/1699.m3u8
+#EXTINF:-1 tvg-id="I729.105264.schedulesdirect.org" tvg-name="AND TV 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AND TV 4K USA
+https://vt-ip.vodep39240327.workers.dev/1698.m3u8
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR BHARAT 4K USA
+https://vt-ip.vodep39240327.workers.dev/419.m3u8
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR BHARAT 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/420.m3u8
+#EXTINF:-1 tvg-id="starbharat.uk" tvg-name="STAR BHARAT UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR BHARAT UK
+https://vt-ip.vodep39240327.workers.dev/421.m3u8
+#EXTINF:-1 tvg-id="I701.61842.schedulesdirect.org" tvg-name="SAB TV USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SAB TV USA
+https://vt-ip.vodep39240327.workers.dev/1748.m3u8
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SAB TV 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SAB TV 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/424.m3u8
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="SAB TV UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SAB TV UK
+https://vt-ip.vodep39240327.workers.dev/425.m3u8
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="TRAVELXP INDIA 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",TRAVELXP INDIA 4K
+https://vt-ip.vodep39240327.workers.dev/1712.m3u8
+#EXTINF:-1 tvg-id="zetcbollywood.in" tvg-name="ZEE ETC BOLLYWOOD 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE ETC BOLLYWOOD 4K
+https://vt-ip.vodep39240327.workers.dev/2254.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MINIPLEX 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MINIPLEX 4K
+https://vt-ip.vodep39240327.workers.dev/1725.m3u8
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="CINEPLEX 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",CINEPLEX 4K USA
+https://vt-ip.vodep39240327.workers.dev/1704.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD 4K UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD 4K UK
+https://vt-ip.vodep39240327.workers.dev/1708.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD 4K USA
+https://vt-ip.vodep39240327.workers.dev/1707.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD 4K APAC" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD 4K APAC
+https://vt-ip.vodep39240327.workers.dev/1706.m3u8
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="COLORS RISHTEY INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",COLORS RISHTEY INDIA
+https://vt-ip.vodep39240327.workers.dev/428.m3u8
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="STAR UTSAV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR UTSAV
+https://vt-ip.vodep39240327.workers.dev/1770.m3u8
+#EXTINF:-1 tvg-id="colorsrishtey.uk" tvg-name="COLORS RISHTEY UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",COLORS RISHTEY UK
+https://vt-ip.vodep39240327.workers.dev/432.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD SELECT 4K USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD SELECT 4K USA
+https://vt-ip.vodep39240327.workers.dev/1711.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD SELECT 4K APAC" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD SELECT 4K APAC
+https://vt-ip.vodep39240327.workers.dev/1710.m3u8
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="ZEE CAFE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CAFE 4K
+https://vt-ip.vodep39240327.workers.dev/1713.m3u8
+#EXTINF:-1 tvg-id="zanmol.in" tvg-name="ZEE ANMOL" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE ANMOL
+https://vt-ip.vodep39240327.workers.dev/435.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="V4U & HTM HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",V4U & HTM HD
+https://vt-ip.vodep39240327.workers.dev/2246.m3u8
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="AND FLIX 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AND FLIX 4K
+https://vt-ip.vodep39240327.workers.dev/1722.m3u8
+#EXTINF:-1 tvg-id="foodfood.us" tvg-name="FOOD FOOD US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",FOOD FOOD US
+https://vt-ip.vodep39240327.workers.dev/436.m3u8
+#EXTINF:-1 tvg-id="foodfood.in" tvg-name="FOOD FOOD INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",FOOD FOOD INDIA
+https://vt-ip.vodep39240327.workers.dev/437.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE ZEST HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE ZEST HD
+https://vt-ip.vodep39240327.workers.dev/2030.m3u8
+#EXTINF:-1 tvg-id="ndtvgoodtimes.in" tvg-name="NDTV GOOD TIMES" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",NDTV GOOD TIMES
+https://vt-ip.vodep39240327.workers.dev/439.m3u8
+#EXTINF:-1 tvg-id="colorsrishtey.us" tvg-name="RISHTEY US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",RISHTEY US
+https://vt-ip.vodep39240327.workers.dev/1829.m3u8
+#EXTINF:-1 tvg-id="tvasia.us" tvg-name="TV ASIA 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",TV ASIA 4K
+https://vt-ip.vodep39240327.workers.dev/1813.m3u8
+#EXTINF:-1 tvg-id="zeecinema.us" tvg-name="ZEE CINEMA USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CINEMA USA
+https://vt-ip.vodep39240327.workers.dev/1819.m3u8
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="ZEE CINEMA INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CINEMA INDIA
+https://vt-ip.vodep39240327.workers.dev/1820.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE CINEMA ME" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CINEMA ME
+https://vt-ip.vodep39240327.workers.dev/1821.m3u8
+#EXTINF:-1 tvg-id="zeecinema.uk" tvg-name="ZEE CINEMA UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CINEMA UK
+https://vt-ip.vodep39240327.workers.dev/443.m3u8
+#EXTINF:-1 tvg-id="setmax.us" tvg-name="SONY MAX US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY MAX US
+https://vt-ip.vodep39240327.workers.dev/2258.m3u8
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="SONY MAX INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY MAX INDIA
+https://vt-ip.vodep39240327.workers.dev/445.m3u8
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="SONY MAX UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY MAX UK
+https://vt-ip.vodep39240327.workers.dev/2259.m3u8
+#EXTINF:-1 tvg-id="starutsavmovies.in" tvg-name="STAR UTSAV MOVIES" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR UTSAV MOVIES
+https://vt-ip.vodep39240327.workers.dev/1771.m3u8
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE ANMOL CINEMA
+https://vt-ip.vodep39240327.workers.dev/1827.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE CLASSIC" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE CLASSIC
+https://vt-ip.vodep39240327.workers.dev/449.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE ACTION" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE ACTION
+https://vt-ip.vodep39240327.workers.dev/450.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE BOLLYWOOD INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE BOLLYWOOD INDIA
+https://vt-ip.vodep39240327.workers.dev/1828.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="CINEMA TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",CINEMA TV
+https://vt-ip.vodep39240327.workers.dev/1833.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR GOLD 2" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",STAR GOLD 2
+https://vt-ip.vodep39240327.workers.dev/455.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="B4U MOVIES USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",B4U MOVIES USA
+https://vt-ip.vodep39240327.workers.dev/454.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="B4U MOVIES INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",B4U MOVIES INDIA
+https://vt-ip.vodep39240327.workers.dev/458.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="B4U MOVIES UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",B4U MOVIES UK
+https://vt-ip.vodep39240327.workers.dev/456.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="B4U PLUS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",B4U PLUS
+https://vt-ip.vodep39240327.workers.dev/457.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="B4U KADAK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",B4U KADAK
+https://vt-ip.vodep39240327.workers.dev/2256.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="COLORS CINEPLEX INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",COLORS CINEPLEX INDIA
+https://vt-ip.vodep39240327.workers.dev/2552.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="COLORS CINEPLEX USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",COLORS CINEPLEX USA
+https://vt-ip.vodep39240327.workers.dev/2574.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="COLORS CINEPLEX UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",COLORS CINEPLEX UK
+https://vt-ip.vodep39240327.workers.dev/2556.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="DABANG" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",DABANG
+https://vt-ip.vodep39240327.workers.dev/2257.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY MAX2" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY MAX2
+https://vt-ip.vodep39240327.workers.dev/464.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="DANGAL TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",DANGAL TV
+https://vt-ip.vodep39240327.workers.dev/2545.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="JUS HINDI HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",JUS HINDI HD
+https://vt-ip.vodep39240327.workers.dev/2722.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="COLORS INFINITY 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",COLORS INFINITY 4K
+https://vt-ip.vodep39240327.workers.dev/1830.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="THE Q INDIA 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",THE Q INDIA 4K
+https://vt-ip.vodep39240327.workers.dev/1831.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ISHAARA TV HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ISHAARA TV HD
+https://vt-ip.vodep39240327.workers.dev/2248.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TATA SKY THEATRE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",TATA SKY THEATRE 4K
+https://vt-ip.vodep39240327.workers.dev/2263.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GOLDMINES" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",GOLDMINES
+https://vt-ip.vodep39240327.workers.dev/2261.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GOLDMINES MOVIES" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",GOLDMINES MOVIES
+https://vt-ip.vodep39240327.workers.dev/2262.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",GOLDMINES BOLLYWOOD
+https://vt-ip.vodep39240327.workers.dev/2573.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AAJ TAK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AAJ TAK
+https://vt-ip.vodep39240327.workers.dev/469.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AAJ TAK 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AAJ TAK 4K
+https://vt-ip.vodep39240327.workers.dev/471.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SAMAY" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SAMAY
+https://vt-ip.vodep39240327.workers.dev/470.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TIMES NOW NAVBHARAT 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",TIMES NOW NAVBHARAT 4K
+https://vt-ip.vodep39240327.workers.dev/2412.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TIMES NOW" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",TIMES NOW
+https://vt-ip.vodep39240327.workers.dev/472.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="INDIA TODAY" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",INDIA TODAY
+https://vt-ip.vodep39240327.workers.dev/474.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="NDTV 24X7" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",NDTV 24X7
+https://vt-ip.vodep39240327.workers.dev/476.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="INDIA TV NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",INDIA TV NEWS
+https://vt-ip.vodep39240327.workers.dev/477.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ABP NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ABP NEWS
+https://vt-ip.vodep39240327.workers.dev/478.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TEZ NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",TEZ NEWS
+https://vt-ip.vodep39240327.workers.dev/479.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="INDIA NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",INDIA NEWS
+https://vt-ip.vodep39240327.workers.dev/1839.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GNT TV HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",GNT TV HD
+https://vt-ip.vodep39240327.workers.dev/2694.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="REPUBLIC TV 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",REPUBLIC TV 4K
+https://vt-ip.vodep39240327.workers.dev/1431.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ET NOW" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ET NOW
+https://vt-ip.vodep39240327.workers.dev/483.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="NEWS 24" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",NEWS 24
+https://vt-ip.vodep39240327.workers.dev/484.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="CNN NEWS 18 INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",CNN NEWS 18 INDIA
+https://vt-ip.vodep39240327.workers.dev/487.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="NEWS 18 HINDI" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",NEWS 18 HINDI
+https://vt-ip.vodep39240327.workers.dev/1956.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="NEWS 18 LOKMAT" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",NEWS 18 LOKMAT
+https://vt-ip.vodep39240327.workers.dev/1957.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZEE NEWS
+https://vt-ip.vodep39240327.workers.dev/488.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ANB NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ANB NEWS
+https://vt-ip.vodep39240327.workers.dev/1832.m3u8
+#EXTINF:-1 tvg-id="ddnational.in" tvg-name="DD NATIONAL" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",DD NATIONAL
+https://vt-ip.vodep39240327.workers.dev/491.m3u8
+#EXTINF:-1 tvg-id="loksabhatv.in" tvg-name="LOK SABHA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",LOK SABHA
+https://vt-ip.vodep39240327.workers.dev/489.m3u8
+#EXTINF:-1 tvg-id="rajyasabha.in" tvg-name="RAJYA SABHA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",RAJYA SABHA
+https://vt-ip.vodep39240327.workers.dev/490.m3u8
+#EXTINF:-1 tvg-id="e24.in" tvg-name="E24" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",E24
+https://vt-ip.vodep39240327.workers.dev/493.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="NEWSX" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",NEWSX
+https://vt-ip.vodep39240327.workers.dev/1836.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MIRROW NOW" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MIRROW NOW
+https://vt-ip.vodep39240327.workers.dev/1837.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZOOM US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZOOM US
+https://vt-ip.vodep39240327.workers.dev/2260.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZOOM UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZOOM UK
+https://vt-ip.vodep39240327.workers.dev/496.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZOOM INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZOOM INDIA
+https://vt-ip.vodep39240327.workers.dev/497.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZING TV US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZING TV US
+https://vt-ip.vodep39240327.workers.dev/498.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZING TV INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZING TV INDIA
+https://vt-ip.vodep39240327.workers.dev/500.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZING TV UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ZING TV UK
+https://vt-ip.vodep39240327.workers.dev/499.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="B4U MUSIC INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",B4U MUSIC INDIA
+https://vt-ip.vodep39240327.workers.dev/1822.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="B4U MUSIC USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",B4U MUSIC USA
+https://vt-ip.vodep39240327.workers.dev/501.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="B4U MUSIC UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",B4U MUSIC UK
+https://vt-ip.vodep39240327.workers.dev/502.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MTV PLUS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MTV PLUS 4K
+https://vt-ip.vodep39240327.workers.dev/1724.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="9X JALWA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",9X JALWA
+https://vt-ip.vodep39240327.workers.dev/505.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="9X MUSIC" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",9X MUSIC
+https://vt-ip.vodep39240327.workers.dev/506.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MUSIC INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MUSIC INDIA
+https://vt-ip.vodep39240327.workers.dev/1815.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MASTIII" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MASTIII
+https://vt-ip.vodep39240327.workers.dev/509.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY WAH" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY WAH
+https://vt-ip.vodep39240327.workers.dev/1826.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY PAL" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY PAL
+https://vt-ip.vodep39240327.workers.dev/1824.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BINDAAS TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BINDAAS TV
+https://vt-ip.vodep39240327.workers.dev/1816.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MANORANJAN MOVIES*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MANORANJAN MOVIES*
+https://vt-ip.vodep39240327.workers.dev/512.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="HINDU SABHA TEMPLE HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",HINDU SABHA TEMPLE HD
+https://vt-ip.vodep39240327.workers.dev/2239.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="OM SHANTI 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",OM SHANTI 4K
+https://vt-ip.vodep39240327.workers.dev/1788.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PARAS TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",PARAS TV
+https://vt-ip.vodep39240327.workers.dev/1789.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MATA KI BETEIN 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MATA KI BETEIN 1 4K
+https://vt-ip.vodep39240327.workers.dev/515.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MATA KI BETEIN 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",MATA KI BETEIN 2 4K
+https://vt-ip.vodep39240327.workers.dev/516.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GANESH BHAJANS 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",GANESH BHAJANS 1 4K
+https://vt-ip.vodep39240327.workers.dev/517.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GANESH BHAJANS 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",GANESH BHAJANS 2 4K
+https://vt-ip.vodep39240327.workers.dev/518.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="KRISHAN BHAJANS 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",KRISHAN BHAJANS 1 4K
+https://vt-ip.vodep39240327.workers.dev/519.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="KRISHAN BHAJANS 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",KRISHAN BHAJANS 2 4K
+https://vt-ip.vodep39240327.workers.dev/520.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AASTHA BHAJAN USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AASTHA BHAJAN USA
+https://vt-ip.vodep39240327.workers.dev/1784.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AASTHA PRIME 1" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AASTHA PRIME 1
+https://vt-ip.vodep39240327.workers.dev/1785.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AASTHA PRIME 2" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AASTHA PRIME 2
+https://vt-ip.vodep39240327.workers.dev/1786.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SANSKAR USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SANSKAR USA
+https://vt-ip.vodep39240327.workers.dev/1787.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SANSKAR" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SANSKAR
+https://vt-ip.vodep39240327.workers.dev/527.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="OM NAMAH SHIVAYA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",OM NAMAH SHIVAYA
+https://vt-ip.vodep39240327.workers.dev/521.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AASTHA TV USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AASTHA TV USA
+https://vt-ip.vodep39240327.workers.dev/523.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AASTHA TV INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AASTHA TV INDIA
+https://vt-ip.vodep39240327.workers.dev/524.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AASTHA TV UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AASTHA TV UK
+https://vt-ip.vodep39240327.workers.dev/525.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AASTHA BHAJAN" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AASTHA BHAJAN
+https://vt-ip.vodep39240327.workers.dev/526.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="JAI SHREE RAM" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",JAI SHREE RAM
+https://vt-ip.vodep39240327.workers.dev/522.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SADHNA CHANNEL" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SADHNA CHANNEL
+https://vt-ip.vodep39240327.workers.dev/528.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ARIHANT" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ARIHANT
+https://vt-ip.vodep39240327.workers.dev/529.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ISHWAR TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ISHWAR TV
+https://vt-ip.vodep39240327.workers.dev/530.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SATSANG TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SATSANG TV
+https://vt-ip.vodep39240327.workers.dev/1825.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="HANUMAN MANDIR BRAMPTON 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",HANUMAN MANDIR BRAMPTON 4K
+https://vt-ip.vodep39240327.workers.dev/2431.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BHAKTI SAGAR" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",BHAKTI SAGAR
+https://vt-ip.vodep39240327.workers.dev/534.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TORONTO KALIBARI HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",TORONTO KALIBARI HD
+https://vt-ip.vodep39240327.workers.dev/2677.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="EPIC CHANNEL 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",EPIC CHANNEL 4K
+https://vt-ip.vodep39240327.workers.dev/535.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SHARDA TV HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SHARDA TV HD
+https://vt-ip.vodep39240327.workers.dev/2547.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="HINDU SAMAJ TEMPLE HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",HINDU SAMAJ TEMPLE HD
+https://vt-ip.vodep39240327.workers.dev/2676.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="HARE KRSNA TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",HARE KRSNA TV
+https://vt-ip.vodep39240327.workers.dev/537.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SARV DHARAM SANGAM" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SARV DHARAM SANGAM
+https://vt-ip.vodep39240327.workers.dev/538.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AATMA CHANNEL" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",AATMA CHANNEL
+https://vt-ip.vodep39240327.workers.dev/1840.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="HINDU HERITAGE CENTRE CANADA HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",HINDU HERITAGE CENTRE CANADA HD
+https://vt-ip.vodep39240327.workers.dev/2200.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="DISCOVERY 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",DISCOVERY 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/1726.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ANIMAL PLANET WORLD 4K INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",ANIMAL PLANET WORLD 4K INDIA
+https://vt-ip.vodep39240327.workers.dev/1728.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="HISTORY TV18 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",HISTORY TV18 4K
+https://vt-ip.vodep39240327.workers.dev/1729.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY BBC EARTH 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY BBC EARTH 4K
+https://vt-ip.vodep39240327.workers.dev/1730.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR PRAVAH HD USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",STAR PRAVAH HD USA
+https://vt-ip.vodep39240327.workers.dev/905.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="STAR PRAVAH HD INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",STAR PRAVAH HD INDIA
+https://vt-ip.vodep39240327.workers.dev/909.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE YUVA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",ZEE YUVA
+https://vt-ip.vodep39240327.workers.dev/2057.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PRAVAH PICTURE" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",PRAVAH PICTURE
+https://vt-ip.vodep39240327.workers.dev/2590.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY MARATHI HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",SONY MARATHI HD
+https://vt-ip.vodep39240327.workers.dev/2056.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE MARATHI US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",ZEE MARATHI US
+https://vt-ip.vodep39240327.workers.dev/907.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE MARATHI" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",ZEE MARATHI
+https://vt-ip.vodep39240327.workers.dev/908.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE MARATHI HD INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",ZEE MARATHI HD INDIA
+https://vt-ip.vodep39240327.workers.dev/911.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE TALKIES HD INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",ZEE TALKIES HD INDIA
+https://vt-ip.vodep39240327.workers.dev/910.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE TALKIES US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",ZEE TALKIES US
+https://vt-ip.vodep39240327.workers.dev/913.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ZEE TALKIES" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",ZEE TALKIES
+https://vt-ip.vodep39240327.workers.dev/912.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="COLORS MARATHI USA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",COLORS MARATHI USA
+https://vt-ip.vodep39240327.workers.dev/916.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="COLORS MARATHI UK" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",COLORS MARATHI UK
+https://vt-ip.vodep39240327.workers.dev/914.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="COLORS MARATHI HD INDIA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",COLORS MARATHI HD INDIA
+https://vt-ip.vodep39240327.workers.dev/915.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TV9 MARATHI" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",TV9 MARATHI
+https://vt-ip.vodep39240327.workers.dev/2060.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FAKHT MARATHI" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",FAKHT MARATHI
+https://vt-ip.vodep39240327.workers.dev/2058.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="9X JHAKAAS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",9X JHAKAAS
+https://vt-ip.vodep39240327.workers.dev/918.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="24 TASS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",24 TASS
+https://vt-ip.vodep39240327.workers.dev/917.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ABP MAJHA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",ABP MAJHA
+https://vt-ip.vodep39240327.workers.dev/919.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SAAM TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",SAAM TV
+https://vt-ip.vodep39240327.workers.dev/2061.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="DD SAHYADRI" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",DD SAHYADRI
+https://vt-ip.vodep39240327.workers.dev/2063.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SANGEET MARATHI" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",SANGEET MARATHI
+https://vt-ip.vodep39240327.workers.dev/2064.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TULJA BHAVANI" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MARATHI",TULJA BHAVANI
+https://vt-ip.vodep39240327.workers.dev/2065.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PPV CRICKET 1 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PPV CRICKET 1 4K
+https://vt-ip.vodep39240327.workers.dev/2010.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PPV CRICKET 2 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PPV CRICKET 2 4K
+https://vt-ip.vodep39240327.workers.dev/2011.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PPV CRICKET 3 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PPV CRICKET 3 4K
+https://vt-ip.vodep39240327.workers.dev/2012.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PPV CRICKET 4 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PPV CRICKET 4 4K
+https://vt-ip.vodep39240327.workers.dev/2013.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PPV CRICKET 5 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PPV CRICKET 5 4K
+https://vt-ip.vodep39240327.workers.dev/2014.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PPV CRICKET 6 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PPV CRICKET 6 4K
+https://vt-ip.vodep39240327.workers.dev/2213.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PPV CRICKET 7 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PPV CRICKET 7 4K
+https://vt-ip.vodep39240327.workers.dev/2612.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PPV CRICKET 8 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PPV CRICKET 8 4K
+https://vt-ip.vodep39240327.workers.dev/2613.m3u8
+#EXTINF:-1 tvg-id="I712.68605.schedulesdirect.org" tvg-name="WILLOW CRICKET 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",WILLOW CRICKET 4K*
+https://vt-ip.vodep39240327.workers.dev/2028.m3u8
+#EXTINF:-1 tvg-id="I722.100316.schedulesdirect.org" tvg-name="WILLOW CRICKET EXTRA 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",WILLOW CRICKET EXTRA 4K*
+https://vt-ip.vodep39240327.workers.dev/2026.m3u8
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",STAR SPORTS 1 HINDI 4K*
+https://vt-ip.vodep39240327.workers.dev/1966.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",STAR SPORTS 2 4K*
+https://vt-ip.vodep39240327.workers.dev/1450.m3u8
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",SKY SPORTS CRICKET 4K*
+https://vt-ip.vodep39240327.workers.dev/1964.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FOX CRICKET 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",FOX CRICKET 4K*
+https://vt-ip.vodep39240327.workers.dev/1972.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ASTRO CRICKET 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",ASTRO CRICKET 4K*
+https://vt-ip.vodep39240327.workers.dev/1973.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SUPERSPORT CRICKET 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",SUPERSPORT CRICKET 4K*
+https://vt-ip.vodep39240327.workers.dev/2009.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="A SPORTS 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",A SPORTS 4K*
+https://vt-ip.vodep39240327.workers.dev/2427.m3u8
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",SONY TEN 1 4K*
+https://vt-ip.vodep39240327.workers.dev/1101.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",SONY TEN 2 4K*
+https://vt-ip.vodep39240327.workers.dev/1103.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",SONY TEN 3 4K*
+https://vt-ip.vodep39240327.workers.dev/1104.m3u8
+#EXTINF:-1 tvg-id="sonyten4hd.in" tvg-name="SONY TEN 4 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",SONY TEN 4 4K*
+https://vt-ip.vodep39240327.workers.dev/1105.m3u8
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",SONY TEN 5 4K*
+https://vt-ip.vodep39240327.workers.dev/2704.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="T SPORTS HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",T SPORTS HD
+https://vt-ip.vodep39240327.workers.dev/2460.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SPORTS 18 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",SPORTS 18 4K*
+https://vt-ip.vodep39240327.workers.dev/2458.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",STAR SPORTS SELECT 1 4K*
+https://vt-ip.vodep39240327.workers.dev/1451.m3u8
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-name="STAR SPORTS SELECT 2 4K*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",STAR SPORTS SELECT 2 4K*
+https://vt-ip.vodep39240327.workers.dev/1452.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TEN SPORTS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",TEN SPORTS
+https://vt-ip.vodep39240327.workers.dev/1098.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PTV SPORTS*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",PTV SPORTS*
+https://vt-ip.vodep39240327.workers.dev/1099.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GEO SUPER*" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",GEO SUPER*
+https://vt-ip.vodep39240327.workers.dev/1100.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="RPL CANADA HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |SPORTS | CRICKET",RPL CANADA HD
+https://vt-ip.vodep39240327.workers.dev/2601.m3u8
