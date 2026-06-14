@@ -308,10 +308,8 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdnts=s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdnts=st=1779075388~exp=1779078388~acl=/out/v1/ZEE5_Live_Channels/Good-News-Today-HD/index/*~id=0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726~data=non-ssai_0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726~hmac=cbc2b1226a53827fc74f90537e97bc7affa5dc9fc82b6a5d4d65b83663213d85&req_id=non-ssai_0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019550/1781198966873129_ArcheryWC26_Antalya_Turkiye_Compound_mixed_Team_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Compound Mixed Team And Individual Finals - 14 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781480748~acl=/*~id=76960322801036265946381402180462~hmac=96ac9b2d2fc3c9a93778a3a0170bba411fc02b8cb351df3a3c443cb82c080f4b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071038987762_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day4_6jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",International Series Morocco - Day 4 - 14 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781480748~acl=/*~id=76960322801036265946381402180462~hmac=96ac9b2d2fc3c9a93778a3a0170bba411fc02b8cb351df3a3c443cb82c080f4b
+https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781487427~acl=/*~id=61412708967511975377921263869791~hmac=32467c466cc0c612dfead30d87d3c78b725ffb86ade460937e4b768d76ef1be4
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
