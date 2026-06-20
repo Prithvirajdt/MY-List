@@ -308,6 +308,17 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdnts=s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdnts=st=1779075388~exp=1779078388~acl=/out/v1/ZEE5_Live_Channels/Good-News-Today-HD/index/*~id=0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726~data=non-ssai_0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726~hmac=cbc2b1226a53827fc74f90537e97bc7affa5dc9fc82b6a5d4d65b83663213d85&req_id=non-ssai_0cd2aba1-6b9c-4d1d-a9c5-d0fd4dde3726
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018954/1780272679469965_ABB_FIA_FormulaE_WC26_RD11_Sanya_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Round 11 - Sanya E-Prix - Qualifying Race - 20 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/109053502006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781965676~acl=/*~id=42341112144772011423419600535829~hmac=20c4e27c06291aa466cef57bc362c6c77285c8f6cae8833cb827813e18b85bef
+
+# ------------=== VT OTT | CIO ===---------------
+
+#EXTM3U
+
+#
+# ======= CATEGORY: ASSAMESE =======
+#
+
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
