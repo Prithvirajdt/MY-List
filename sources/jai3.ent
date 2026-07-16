@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="5396164897" tvg-name="HINDI" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1783777710698-b" group-title="ENGLAND VS INDIA 5TH T20I", HINDI HDR
+#EXTINF:-1 tvg-id="593155808" tvg-name="HINDI 4K HDR10 By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8226/1784119408226-b" group-title="ENGLAND VS INDIA 2ND ODI By @rtxcric", HINDI 4K HDR10 @rtxcric
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://cricket.neyini4157.workers.dev/HINDI%20HDR.m3u8
-#EXTINF:-1 tvg-id="5167981682" tvg-name="HINDI SDR" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1783777710698-b" group-title="ENGLAND VS INDIA 5TH T20I", HINDI SDR
+https://cricket.neyini4157.workers.dev/HINDI%204K%20HDR10%20@rtxcric.m3u8
+#EXTINF:-1 tvg-id="3823812983" tvg-name="HINDI 4K SDR By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8226/1784119408226-b" group-title="ENGLAND VS INDIA 2ND ODI By @rtxcric", HINDI 4K SDR @rtxcric
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://cricket.neyini4157.workers.dev/HINDI%20SDR.m3u8
+https://cricket.neyini4157.workers.dev/HINDI%204K%20SDR%20@rtxcric.m3u8
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",TATA IPL TV
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
 #EXTHTTP:{"Cookie":"hdntl=exp=1784233784~acl=%2f*~id=60e72c3e9413e7d67e8b194654302b95~data=hdntl~hmac=d1e438663af81d5b04616041e62887a24c6c1737cf1fc11c08ea425dba38e42e","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
