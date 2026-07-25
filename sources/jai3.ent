@@ -178,33 +178,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
 #EXTHTTP:{"Cookie":"hdntl=exp=1785097517~acl=%2f*~id=6d610d2069e586687ec7d7e7e437e24b~data=hdntl~hmac=dd0b3093850cc1f321bb5d80c13cb5026a1a6380cf60d8be58f37965b2193bca","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 2 - Swimming - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 2 - Swimming - 25 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 2 - Swimming - 25 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 2 - Swimming - 25 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 2 - Swimming - 25 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785010636663_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mixed 4 x 100m Freestyle Relay - Aquatics - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785005000181_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Alan Perrie vs Paul Trainor - Men's 80kg - Boxing - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785004049710_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 50m Freestyle - Aquatics - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785009610081_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",South Africa vs Malawi - Netball - Netball - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785054716~acl=/*~id=11050279627519936292176744324849~hmac=b57cc0f8ca2e611634f94cfcb5970c3ff906877407da6216c09fe11483ca4c9b
-
-# ------------=== VT OTT | CIO ===---------------
-
-#EXTM3U
-
-#
-# ======= CATEGORY: ASSAMESE =======
-#
-
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
