@@ -178,6 +178,33 @@ https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
 #EXTHTTP:{"Cookie":"hdntl=exp=1785012241~acl=%2f*~id=6f088ef5a48a79d0654777f55595ef94~data=hdntl~hmac=534f5225b581df1ab8addc090291ee83cc53e98b77b891204af5bfb653e0e96d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932559016224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",R14 - Tokyo E-Prix - Qualifying Race - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/FormulaE2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Scotland vs New Zealand - Netball - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784964301617_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Australia vs Isle of Man - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784964303517_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Royden Aperau vs Mark McGreal - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785008388~acl=/*~id=75814618642920821999850923510312~hmac=d45258017ff2fc49ae50c7853cfa7f71eefd10277bf7b82912f1ac9583f9d9c3
+
+# ------------=== VT OTT | CIO ===---------------
+
+#EXTM3U
+
+#
+# ======= CATEGORY: ASSAMESE =======
+#
+
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
