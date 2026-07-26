@@ -178,27 +178,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
 #EXTHTTP:{"Cookie":"hdntl=exp=1785184054~acl=%2f*~id=8e9213247af9b33351ae57edd9e2fc59~data=hdntl~hmac=a47e8d2992728b070bef3ce7bb680ca5f9b369d49fda026d1f0df4978e887dee","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021081/1785070383000984_CWG26_AQUATICS_INDIA_MENS_TEAM_mens_4_200M_FREESTYLE_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 4*200m Freestyle - Aquatics - 26 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre2607/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785141618~acl=/*~id=98682893209135432496520306870457~hmac=b649bc566fc0d8569dd12161a5cc0fcfcae72e34e5a27cef42d85fc701f4cf25
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021081/1785070383000984_CWG26_AQUATICS_INDIA_MENS_TEAM_mens_4_200M_FREESTYLE_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 4*200m Freestyle - Aquatics - 26 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2607/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785141618~acl=/*~id=98682893209135432496520306870457~hmac=b649bc566fc0d8569dd12161a5cc0fcfcae72e34e5a27cef42d85fc701f4cf25
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021081/1785070383000984_CWG26_AQUATICS_INDIA_MENS_TEAM_mens_4_200M_FREESTYLE_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 4*200m Freestyle - Aquatics - 26 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2607/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785141618~acl=/*~id=98682893209135432496520306870457~hmac=b649bc566fc0d8569dd12161a5cc0fcfcae72e34e5a27cef42d85fc701f4cf25
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021081/1785070383000984_CWG26_AQUATICS_INDIA_MENS_TEAM_mens_4_200M_FREESTYLE_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 4*200m Freestyle - Aquatics - 26 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2607/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785141618~acl=/*~id=98682893209135432496520306870457~hmac=b649bc566fc0d8569dd12161a5cc0fcfcae72e34e5a27cef42d85fc701f4cf25
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021081/1785070383000984_CWG26_AQUATICS_INDIA_MENS_TEAM_mens_4_200M_FREESTYLE_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 4*200m Freestyle - Aquatics - 26 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2607/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785141618~acl=/*~id=98682893209135432496520306870457~hmac=b649bc566fc0d8569dd12161a5cc0fcfcae72e34e5a27cef42d85fc701f4cf25
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785090631104_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Aquatics - 26 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785141618~acl=/*~id=98682893209135432496520306870457~hmac=b649bc566fc0d8569dd12161a5cc0fcfcae72e34e5a27cef42d85fc701f4cf25
-
-# ------------=== VT OTT | CIO ===---------------
-
-#EXTM3U
-
-#
-# ======= CATEGORY: ASSAMESE =======
-#
-
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
