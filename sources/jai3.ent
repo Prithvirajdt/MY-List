@@ -178,6 +178,35 @@ https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021488/1785481376015675_CWG_live_version1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 8 - India In Action - 31 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021488/1785481376015675_CWG_live_version1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 8 - India In Action - 31 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre3107/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021488/1785481376015675_CWG_live_version1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 8 - India In Action - 31 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre3107/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021488/1785481376015675_CWG_live_version1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 8 - India In Action - 31 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre3107/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021488/1785481376015675_CWG_live_version1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 8 - India In Action - 31 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre3107/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021307/1785285459561595_DC26_Shillong_Lajong_FC_vs_Nongkseh_SS_and_CC_landscape.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Shillong Lajong FC vs Nongkseh SS &CC  - 31 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/Football3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785492864072_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Sacha Hickey vs Eve Elizabeth Bryson - Women's 65kg - Boxing - 31 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785491080887_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's Decathlon - Athletics - 31 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785490493619_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Women's 4000m Ind. Pursuit - Cycling - 31 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Judo - Elimination - RD Of 16 - 31 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785536547~acl=/*~id=16776713733550441555478685986476~hmac=ce0dd67479849576263c6fc8692a83eb141eac14e7921497a81eb7b06b966563
+
+# ------------=== VT OTT | CIO ===---------------
+
+#EXTM3U
+
+#
+# ======= CATEGORY: ASSAMESE =======
+#
+
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
