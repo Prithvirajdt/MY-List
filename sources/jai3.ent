@@ -178,33 +178,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India in Action - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India in Action - 1 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India in Action - 1 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India in Action - 1 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India in Action - 1 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785615646049_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mixed 4 x 400m Relay - Athletics - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021585/1785546383720269_CWG26_athletics_MENS_POLE_VAULT_FINAL_KULDEEP_and_DEV_MEENA_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's Pole Vault - Final - Athletics - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Scotland vs Australia - Bowls And Para Bowls - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",England vs Norfolk Island - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785659474~acl=/*~id=74925942955913963965523684606624~hmac=46af03a1372d8e94ae31374f9f10c858912a91aa389aa20e1c80d078f7df3766
-
-# ------------=== VT OTT | CIO ===---------------
-
-#EXTM3U
-
-#
-# ======= CATEGORY: ASSAMESE =======
-#
-
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
