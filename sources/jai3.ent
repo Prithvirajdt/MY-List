@@ -178,10 +178,8 @@ https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707218265385_DC26_India_Army_FT_vs_Baghpat_FC_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India Army FT vs Baghpat FC - 5 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785980639~acl=/*~id=46829251553300836951485550787369~hmac=7a299f63c6765403fba6056851d82527b34d9b2822c75314fab9a2ba5127987a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021796/178586061322053_Vitality_Mixed_Disability_1st_T20i_England_vs_India_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",England vs India - 1st T20I - 5 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785980639~acl=/*~id=46829251553300836951485550787369~hmac=7a299f63c6765403fba6056851d82527b34d9b2822c75314fab9a2ba5127987a
+https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785987947~acl=/*~id=07948431204474352063093807927180~hmac=30b7bc0bd256cb090636ba525c3d6d276c4dbfd46a5412e189a2dd7e7ada6cf9
 
 # ------------=== VT OTT | CIO ===---------------
 
