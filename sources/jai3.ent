@@ -178,17 +178,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
 #EXTHTTP:{"Cookie":"hdntl=exp=1786552089~acl=%2f*~id=e04cb140185e182d8aa14fb23fea2d07~data=hdntl~hmac=588e87ee659fd7fd3d3b2d3eec006d681a71653eb47b8df77433c3b11d3a2d2b","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Neroca FC vs FC Raengdai FT - 12 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786575180~acl=/*~id=93811303738793945063703548342424~hmac=9e2d27b86fe09afefb0982caa5d467cb83ae062ab8b9e8f6357070006d15967a
-
-# ------------=== VT OTT | CIO ===---------------
-
-#EXTM3U
-
-#
-# ======= CATEGORY: ASSAMESE =======
-#
-
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
