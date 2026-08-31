@@ -178,6 +178,17 @@ https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
 #EXTHTTP:{"Cookie":"hdntl=exp=1787704202~acl=%2f*~id=28e7edeefb758fdac65a3ec98c156e6c~data=hdntl~hmac=fd209bf2f91f9914d99a377c780e4e07fd850a50df599a5afeac76443e3aee9e","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817583100770_JPL_26_Mumbai-Kings-Xl-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mumbai Kings XI vs Bengal Indians - 31 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788214125~acl=/*~id=86896503787267833747641937298962~hmac=6be1d17d134758a39dff528c57081bd3cf68ec4907422187a84bddda5b1fade9
+
+# ------------=== VT OTT | CIO ===---------------
+
+#EXTM3U
+
+#
+# ======= CATEGORY: ASSAMESE =======
+#
+
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/190
