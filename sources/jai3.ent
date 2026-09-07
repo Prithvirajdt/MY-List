@@ -1,109 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="5209806678" tvg-name="Bb: 24X7 Stream [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4230/1788186834230-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bb: 24X7 Stream [Deferred]
+#EXTINF:-1 tvg-id="5209806678" tvg-name="Bb: 24X7 Stream [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4230/1788186834230-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bb: 24X7 Stream [Deferred]
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-ben-2026/d8b1f4b4b6ad493d845fb9669712ee6e/index.m3u8?hdnea=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539
-#EXTINF:-1 tvg-id="6075839637" tvg-name="Bbs08   24X7 Stream [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5425/1788707405425-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bbs08   24X7 Stream [Deferred]
+#EXTINF:-1 tvg-id="6075839637" tvg-name="Bbs08   24X7 Stream [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5425/1788707405425-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bbs08   24X7 Stream [Deferred]
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index.m3u8?hdnea=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539
-#EXTINF:-1 tvg-id="6848819551" tvg-name="Bbs13   24X7 Stream [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7246/1788706787246-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bbs13   24X7 Stream [Deferred]
+#EXTINF:-1 tvg-id="6848819551" tvg-name="Bbs13   24X7 Stream [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7246/1788706787246-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bbs13   24X7 Stream [Deferred]
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index.m3u8?hdnea=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539
-#EXTINF:-1 tvg-id="6160919559" tvg-name="Bbs20: 24 Hrs Channel [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8464/1788708838464-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bbs20: 24 Hrs Channel [Deferred]
+#EXTINF:-1 tvg-id="6160919559" tvg-name="Bbs20: 24 Hrs Channel [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8464/1788708838464-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bbs20: 24 Hrs Channel [Deferred]
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index.m3u8?hdnea=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539
-#EXTINF:-1 tvg-id="9120227230" tvg-name="Bbs10   24X7 Stream [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3541/1788705493541-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bbs10   24X7 Stream [Deferred]
+#EXTINF:-1 tvg-id="9120227230" tvg-name="Bbs10   24X7 Stream [Deferred]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3541/1788705493541-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bbs10   24X7 Stream [Deferred]
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index.m3u8?hdnea=exp=1788782604~acl=%2f*~id=390103f5d9b61f2d730ec230cacd7569~data=hdntl~hmac=f2f89273415d1856809ee1b03025138e3b75be904a354b2984fa97985147c539
-#EXTINF:-1 tvg-id="203507007" tvg-name="Daniil Medvedev vs Frances Tiafoe: Rd 4, Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1065/1788734911065-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Daniil Medvedev vs Frances Tiafoe: Rd 4
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788738487~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.11.18.7-ut=paid-ttl=1800-type=paid-raf=1788737287-~hmac=b929c8a88e146a4cc171377efe97844ab4c58f222ce8050fff730fc3dc7296f2"}
+#EXTINF:-1 tvg-id="72943493" tvg-name="Anna Kalinskaya vs Emma Navarro: Rd 4 Womens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/672/1788743590672-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Anna Kalinskaya vs Emma Navarro: Rd 4 Womens Singles
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788748383~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DTG4RlyxN3avAyU3auL8lrMbkFfcCsPmsY6D9ynlMlhx-did=fO8xADhwgYy1fNmEh6WLprF1ZFRg2L2650arRoM1UcEk-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=26.09.05.7-ut=paid-ttl=1800-type=paid-raf=1788747183-~hmac=8a3df2664ba32d984444a17a72bce4a4c5cbef0508b34526e1b4d2201f8f847e"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738487~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.11.18.7-ut=paid-ttl=1800-type=paid-raf=1788737287-~hmac=b929c8a88e146a4cc171377efe97844ab4c58f222ce8050fff730fc3dc7296f2
-#EXTINF:-1 tvg-id="4604246270" tvg-name="Daniil Medvedev vs Frances Tiafoe: Rd 4, Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1065/1788734911065-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Daniil Medvedev vs Frances Tiafoe: Rd 4
+https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?a=ns&hdnea=exp=1788748383~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DTG4RlyxN3avAyU3auL8lrMbkFfcCsPmsY6D9ynlMlhx-did=fO8xADhwgYy1fNmEh6WLprF1ZFRg2L2650arRoM1UcEk-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=26.09.05.7-ut=paid-ttl=1800-type=paid-raf=1788747183-~hmac=8a3df2664ba32d984444a17a72bce4a4c5cbef0508b34526e1b4d2201f8f847e
+#EXTINF:-1 tvg-id="6997498453" tvg-name="Anna Kalinskaya vs Emma Navarro: Rd 4 Womens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/672/1788743590672-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Anna Kalinskaya vs Emma Navarro: Rd 4 Womens Singles
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738487~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.11.18.7-ut=paid-ttl=1800-type=paid-raf=1788737287-~hmac=b929c8a88e146a4cc171377efe97844ab4c58f222ce8050fff730fc3dc7296f2
-#EXTINF:-1 tvg-id="3212317529" tvg-name="Daniil Medvedev vs Frances Tiafoe: Rd 4, Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1065/1788734911065-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Daniil Medvedev vs Frances Tiafoe: Rd 4
+https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?a=ns&hdnea=exp=1788748384~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DTG4RlyxN3avAyU3auL8lrMbkFfcCsPmsY6D9ynlMlhx-did=fO8xADhwgYy1fNmEh6WLprF1ZFRg2L2650arRoM1UcEk-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=26.09.05.7-ut=paid-ttl=1800-type=paid-raf=1788747184-~hmac=8e258a9ed55fe78625e24b355312711052a06aca21b861f307961c1ac1820131
+#EXTINF:-1 tvg-id="5570202033" tvg-name="Anna Kalinskaya vs Emma Navarro: Rd 4 Womens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/672/1788743590672-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Anna Kalinskaya vs Emma Navarro: Rd 4 Womens Singles
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?hdnea=exp=1788735554~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.11.18.7-ut=paid-ttl=1800-type=paid-~hmac=2093dba3db6474a2210842036d4b80c8111e74053fe31135929a69f22eb7d3bb
-#EXTINF:-1 tvg-id="132692406" tvg-name="Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2313/1788728332313-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Singles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788738492~acl=/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=25.09.10.4-ut=paid-ttl=1800-type=paid-raf=1788737292-~hmac=af0294682d944fbc7ea87c50555563e23ff03566b16953c7c3042e8d17a62452"}
+https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?hdnea=exp=1788744287~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DTG4RlyxN3avAyU3auL8lrMbkFfcCsPmsY6D9ynlMlhx-did=fO8xADhwgYy1fNmEh6WLprF1ZFRg2L2650arRoM1UcEk-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=26.09.05.7-ut=paid-ttl=1800-type=paid-~hmac=78e7519c2a07b033b15e02788d812684488c8c9878eafc4a924d3d0275250755
+#EXTINF:-1 tvg-id="2246418558" tvg-name="Anna Kalinskaya Vs Emma Navarro: Rd 4 Women'S Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4487/1788729704487-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Anna Kalinskaya Vs Emma Navarro: Rd 4 Women'S Singles
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788748384~acl=/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=TwiMdOWWYknKYNrRYCDE7YmLvUO4iol09RrKO8yA3CZC-did=Y6MeF1FuyL4SaXSIr4bgtpnw7mW3erXeysVW1XJ95KLf-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=26.10.15.5-ut=paid-ttl=1800-type=paid-raf=1788747184-~hmac=f03f99f29cb88191217c60ac5fb7ef059f4fc7f05f0a8f488a754def4a525187"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738492~acl=/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=25.09.10.4-ut=paid-ttl=1800-type=paid-raf=1788737292-~hmac=af0294682d944fbc7ea87c50555563e23ff03566b16953c7c3042e8d17a62452
-#EXTINF:-1 tvg-id="3881741215" tvg-name="Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2313/1788728332313-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Singles
+https://live13p.hotstar.com/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap.m3u8?a=ns&hdnea=exp=1788748384~acl=/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=TwiMdOWWYknKYNrRYCDE7YmLvUO4iol09RrKO8yA3CZC-did=Y6MeF1FuyL4SaXSIr4bgtpnw7mW3erXeysVW1XJ95KLf-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=26.10.15.5-ut=paid-ttl=1800-type=paid-raf=1788747184-~hmac=f03f99f29cb88191217c60ac5fb7ef059f4fc7f05f0a8f488a754def4a525187
+#EXTINF:-1 tvg-id="3605090297" tvg-name="Anna Kalinskaya Vs Emma Navarro: Rd 4 Women'S Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4487/1788729704487-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Anna Kalinskaya Vs Emma Navarro: Rd 4 Women'S Singles
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738484~acl=/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=25.09.10.4-ut=paid-ttl=1800-type=paid-raf=1788737284-~hmac=78a982602e8040b1577c02ff84d382fe21e7acc502ca8b10a01d527e1b97c2b4
-#EXTINF:-1 tvg-id="3951116540" tvg-name="Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2313/1788728332313-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Singles
+https://live13p.hotstar.com/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap.m3u8?a=ns&hdnea=exp=1788748384~acl=/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=TwiMdOWWYknKYNrRYCDE7YmLvUO4iol09RrKO8yA3CZC-did=Y6MeF1FuyL4SaXSIr4bgtpnw7mW3erXeysVW1XJ95KLf-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=26.10.15.5-ut=paid-ttl=1800-type=paid-raf=1788747184-~hmac=f03f99f29cb88191217c60ac5fb7ef059f4fc7f05f0a8f488a754def4a525187
+#EXTINF:-1 tvg-id="610917998" tvg-name="Anna Kalinskaya Vs Emma Navarro: Rd 4 Women'S Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4487/1788729704487-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Anna Kalinskaya Vs Emma Navarro: Rd 4 Women'S Singles
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap.m3u8?hdnea=exp=1788735552~acl=/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=25.09.10.4-ut=paid-ttl=1800-type=paid-~hmac=a57de9e3112c7f7602322b324485d0d4d2ca0262e443e3f222a17ecfea138f84
-#EXTINF:-1 tvg-id="9374964525" tvg-name="Bolelli/Vavassori vs Gille/Verbeek: Rd 2, Mens Doubles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6421/1788732096421-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bolelli/Vavassori vs Gille/Verbeek: Rd 2
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788738495~acl=/hls/live/2117807/inallow-usopen-2026/eng/1540076535/15mindvrm02eb2cdd72c9544cc1a196a0c708f6097a06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.02.5-ut=paid-ttl=1800-type=paid-raf=1788737295-~hmac=3bab8905600d7cb0487dbadf4c6e0566f7a6351161cd2d5829434a926eee70e2"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2117807/inallow-usopen-2026/eng/1540076535/15mindvrm02eb2cdd72c9544cc1a196a0c708f6097a06september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738495~acl=/hls/live/2117807/inallow-usopen-2026/eng/1540076535/15mindvrm02eb2cdd72c9544cc1a196a0c708f6097a06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.02.5-ut=paid-ttl=1800-type=paid-raf=1788737295-~hmac=3bab8905600d7cb0487dbadf4c6e0566f7a6351161cd2d5829434a926eee70e2
-#EXTINF:-1 tvg-id="4758111715" tvg-name="Bolelli/Vavassori vs Gille/Verbeek: Rd 2, Mens Doubles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6421/1788732096421-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bolelli/Vavassori vs Gille/Verbeek: Rd 2
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2117807/inallow-usopen-2026/eng/1540076535/15mindvrm02eb2cdd72c9544cc1a196a0c708f6097a06september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738493~acl=/hls/live/2117807/inallow-usopen-2026/eng/1540076535/15mindvrm02eb2cdd72c9544cc1a196a0c708f6097a06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.02.5-ut=paid-ttl=1800-type=paid-raf=1788737293-~hmac=c33a4cce0309d5f1950c7e79c5950c639420fac6315856ed4e1fe75c0439f64d
-#EXTINF:-1 tvg-id="5621903474" tvg-name="Bolelli/Vavassori vs Gille/Verbeek: Rd 2, Mens Doubles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6421/1788732096421-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bolelli/Vavassori vs Gille/Verbeek: Rd 2
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2117807/inallow-usopen-2026/eng/1540076535/15mindvrm02eb2cdd72c9544cc1a196a0c708f6097a06september2026/master_ap.m3u8?hdnea=exp=1788735561~acl=/hls/live/2117807/inallow-usopen-2026/eng/1540076535/15mindvrm02eb2cdd72c9544cc1a196a0c708f6097a06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=scmKmToDdXwYaUYC0wNhoeju7EX9wEyvqgDRPnOoLqbP-did=fKJs3jfDQBEqNC4b4lBzp80ReF1fXReB4tDQHsDsdBiP-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.02.5-ut=paid-ttl=1800-type=paid-~hmac=29007a5f1ac006ce192791405ea879ce14e90876840ea88652c42d50dc55ea31
-#EXTINF:-1 tvg-id="5962069613" tvg-name="Bolelli/Vavassori vs Gille/Verbeek: Rd 2 Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1065/1788734911065-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bolelli/Vavassori vs Gille/Verbeek: Rd 2 Mens Singles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788738492~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=1AsKXkkVD8ptDDEBBIclbpehTNYtD7SokaSqrqdOA1OJ-did=dEx0wLK89rIikgyFdURMrWddWgSG8CHYdewoldTrU2J9-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=24.03.22.5-ut=paid-ttl=1800-type=paid-raf=1788737292-~hmac=3875ff692275dfd54b3b9853d380632a6acd137aae02d9d9f15db752f7912a23"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738492~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=1AsKXkkVD8ptDDEBBIclbpehTNYtD7SokaSqrqdOA1OJ-did=dEx0wLK89rIikgyFdURMrWddWgSG8CHYdewoldTrU2J9-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=24.03.22.5-ut=paid-ttl=1800-type=paid-raf=1788737292-~hmac=3875ff692275dfd54b3b9853d380632a6acd137aae02d9d9f15db752f7912a23
-#EXTINF:-1 tvg-id="6325392866" tvg-name="Bolelli/Vavassori vs Gille/Verbeek: Rd 2 Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1065/1788734911065-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bolelli/Vavassori vs Gille/Verbeek: Rd 2 Mens Singles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738496~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=1AsKXkkVD8ptDDEBBIclbpehTNYtD7SokaSqrqdOA1OJ-did=dEx0wLK89rIikgyFdURMrWddWgSG8CHYdewoldTrU2J9-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=24.03.22.5-ut=paid-ttl=1800-type=paid-raf=1788737296-~hmac=ceeea9c62b66a75ffe508d2a02d135d75270acd8888a3686034fc26b07f444a7
-#EXTINF:-1 tvg-id="5617163419" tvg-name="Bolelli/Vavassori vs Gille/Verbeek: Rd 2 Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1065/1788734911065-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Bolelli/Vavassori vs Gille/Verbeek: Rd 2 Mens Singles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap.m3u8?hdnea=exp=1788735656~acl=/hls/live/2004222/inallow-usopen-2026/eng/1540076723/15mindvrm01ca56944956214d009208418a240f530206september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=1AsKXkkVD8ptDDEBBIclbpehTNYtD7SokaSqrqdOA1OJ-did=dEx0wLK89rIikgyFdURMrWddWgSG8CHYdewoldTrU2J9-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=24.03.22.5-ut=paid-ttl=1800-type=paid-~hmac=c09f7c83d5695d2d6394686a20dcebd4077727a458741597b18150eda649409d
-#EXTINF:-1 tvg-id="780582351" tvg-name="Ben Shelton vs Stefanos Tsitsipas: Rd 4, Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4487/1788729704487-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ben Shelton vs Stefanos Tsitsipas: Rd 4
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788738496~acl=/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gsVVBjPgyOJxo33uGL99Gjr5NDmqlFoc3HiygBjloz80-did=PCWDTaCXWHO1gU2nbAKO7lqfW7Vb2WnSwDc0D5ggNSRC-cc=in-bl=jhs-sp=HotstarSuper-ctype=sport_live-de=2-pl=androidtv-ap=25.02.27.6-ut=paid-ttl=1800-type=paid-raf=1788737296-~hmac=fa17c85b8b1007372584924e053fc7f9234472cf6535618bb7d60bc687dadd8f"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738496~acl=/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gsVVBjPgyOJxo33uGL99Gjr5NDmqlFoc3HiygBjloz80-did=PCWDTaCXWHO1gU2nbAKO7lqfW7Vb2WnSwDc0D5ggNSRC-cc=in-bl=jhs-sp=HotstarSuper-ctype=sport_live-de=2-pl=androidtv-ap=25.02.27.6-ut=paid-ttl=1800-type=paid-raf=1788737296-~hmac=fa17c85b8b1007372584924e053fc7f9234472cf6535618bb7d60bc687dadd8f
-#EXTINF:-1 tvg-id="8020031995" tvg-name="Ben Shelton vs Stefanos Tsitsipas: Rd 4, Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4487/1788729704487-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ben Shelton vs Stefanos Tsitsipas: Rd 4
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738497~acl=/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gsVVBjPgyOJxo33uGL99Gjr5NDmqlFoc3HiygBjloz80-did=PCWDTaCXWHO1gU2nbAKO7lqfW7Vb2WnSwDc0D5ggNSRC-cc=in-bl=jhs-sp=HotstarSuper-ctype=sport_live-de=2-pl=androidtv-ap=25.02.27.6-ut=paid-ttl=1800-type=paid-raf=1788737297-~hmac=fc563623695503b00005f7d0c5507eaae01d53ecc78a47e7b004c330ac0911b8
-#EXTINF:-1 tvg-id="8036877487" tvg-name="Ben Shelton vs Stefanos Tsitsipas: Rd 4, Mens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4487/1788729704487-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ben Shelton vs Stefanos Tsitsipas: Rd 4
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap.m3u8?hdnea=exp=1788736259~acl=/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gsVVBjPgyOJxo33uGL99Gjr5NDmqlFoc3HiygBjloz80-did=PCWDTaCXWHO1gU2nbAKO7lqfW7Vb2WnSwDc0D5ggNSRC-cc=in-bl=jhs-sp=HotstarSuper-ctype=sport_live-de=2-pl=androidtv-ap=25.02.27.6-ut=paid-ttl=1800-type=paid-~hmac=23f8bed0a0b00c2f8f7143dc4c827b40fbce50f93bc94d55675655090857803b
-#EXTINF:-1 tvg-id="4898800269" tvg-name="Jessica Pegula vs Sorana Cirstea: Rd 4 Womens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9727/1788734579727-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Jessica Pegula vs Sorana Cirstea: Rd 4 Womens Singles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788738497~acl=/hls/live/2117812/inallow-usopen-2026/eng/1540076532/15mindvrm011ec55d626bc84d4b9367d55d4b8a9a2006september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=En9jGVvajeX9ADLHtbYhodB2ZYF3iWcc62tbd35OdvnM-did=yY5fMSbgSAGphKu0rSBw4RsPIVqzB2WBOGewXhqTxuWS-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=24.03.26.2-ut=paid-ttl=1800-type=paid-raf=1788737297-~hmac=1a772828222597a57805b9280f989044d934947d2609e83f3678e40ec5c239c6"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2117812/inallow-usopen-2026/eng/1540076532/15mindvrm011ec55d626bc84d4b9367d55d4b8a9a2006september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738497~acl=/hls/live/2117812/inallow-usopen-2026/eng/1540076532/15mindvrm011ec55d626bc84d4b9367d55d4b8a9a2006september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=En9jGVvajeX9ADLHtbYhodB2ZYF3iWcc62tbd35OdvnM-did=yY5fMSbgSAGphKu0rSBw4RsPIVqzB2WBOGewXhqTxuWS-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=24.03.26.2-ut=paid-ttl=1800-type=paid-raf=1788737297-~hmac=1a772828222597a57805b9280f989044d934947d2609e83f3678e40ec5c239c6
-#EXTINF:-1 tvg-id="6353776547" tvg-name="Jessica Pegula vs Sorana Cirstea: Rd 4 Womens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9727/1788734579727-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Jessica Pegula vs Sorana Cirstea: Rd 4 Womens Singles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2117812/inallow-usopen-2026/eng/1540076532/15mindvrm011ec55d626bc84d4b9367d55d4b8a9a2006september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738498~acl=/hls/live/2117812/inallow-usopen-2026/eng/1540076532/15mindvrm011ec55d626bc84d4b9367d55d4b8a9a2006september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=En9jGVvajeX9ADLHtbYhodB2ZYF3iWcc62tbd35OdvnM-did=yY5fMSbgSAGphKu0rSBw4RsPIVqzB2WBOGewXhqTxuWS-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=24.03.26.2-ut=paid-ttl=1800-type=paid-raf=1788737298-~hmac=e97459fbfb2d5f360566b3b6591babe98e1698535b6d8f351eb88f67a0539ade
-#EXTINF:-1 tvg-id="1820826431" tvg-name="Jessica Pegula vs Sorana Cirstea: Rd 4 Womens Singles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9727/1788734579727-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Jessica Pegula vs Sorana Cirstea: Rd 4 Womens Singles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2117812/inallow-usopen-2026/eng/1540076532/15mindvrm011ec55d626bc84d4b9367d55d4b8a9a2006september2026/master_ap.m3u8?hdnea=exp=1788736863~acl=/hls/live/2117812/inallow-usopen-2026/eng/1540076532/15mindvrm011ec55d626bc84d4b9367d55d4b8a9a2006september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=En9jGVvajeX9ADLHtbYhodB2ZYF3iWcc62tbd35OdvnM-did=yY5fMSbgSAGphKu0rSBw4RsPIVqzB2WBOGewXhqTxuWS-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=24.03.26.2-ut=paid-ttl=1800-type=paid-~hmac=46da2bf347e7d7a48f746d2a1fc5911bdb5b0b926365dbab81d3fa1ff5146a40
-#EXTINF:-1 tvg-id="8210716153" tvg-name="Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Doubles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2313/1788728332313-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Doubles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788738546~acl=/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=hDOfwibCEnOpm6kKXO9Ivv9WFt2AZb7PeH0Zs9dN7qNn-did=mc62NbIH2hW48PdEiCX5qSXKTdFcZfGuLxWR3HXCxAqS-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=25.08.08.8-ut=paid-ttl=1800-type=paid-raf=1788737346-~hmac=35ae967edaf71f41dcb3816c4d74639016c26622f15946c04bc4ba85fe108187"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738546~acl=/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=hDOfwibCEnOpm6kKXO9Ivv9WFt2AZb7PeH0Zs9dN7qNn-did=mc62NbIH2hW48PdEiCX5qSXKTdFcZfGuLxWR3HXCxAqS-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=25.08.08.8-ut=paid-ttl=1800-type=paid-raf=1788737346-~hmac=35ae967edaf71f41dcb3816c4d74639016c26622f15946c04bc4ba85fe108187
-#EXTINF:-1 tvg-id="2074942198" tvg-name="Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Doubles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2313/1788728332313-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Doubles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap.m3u8?a=ns&hdnea=exp=1788738546~acl=/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=hDOfwibCEnOpm6kKXO9Ivv9WFt2AZb7PeH0Zs9dN7qNn-did=mc62NbIH2hW48PdEiCX5qSXKTdFcZfGuLxWR3HXCxAqS-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=25.08.08.8-ut=paid-ttl=1800-type=paid-raf=1788737346-~hmac=35ae967edaf71f41dcb3816c4d74639016c26622f15946c04bc4ba85fe108187
-#EXTINF:-1 tvg-id="235019459" tvg-name="Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Doubles" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2313/1788728332313-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  |💥  JS Live", ENG-FHD Ram/Salisbury vs Arribage/Olivetti: Rd 2 Mens Doubles
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap.m3u8?hdnea=exp=1788737228~acl=/hls/live/2004211/inallow-usopen-2026/eng/1540076538/15mindvrm035148fd11cc0e474aa8e7b328110c026c06september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=hDOfwibCEnOpm6kKXO9Ivv9WFt2AZb7PeH0Zs9dN7qNn-did=mc62NbIH2hW48PdEiCX5qSXKTdFcZfGuLxWR3HXCxAqS-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=25.08.08.8-ut=paid-ttl=1800-type=paid-~hmac=941a76f7628772c824aa96815ac9767c37c02267af2e1dd2ec5be46e70bfb65a
+https://live13p.hotstar.com/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap.m3u8?hdnea=exp=1788744592~acl=/hls/live/2027134/inallow-usopen-2026/eng/1540076547/15mindvrm05189d3dcbc60b43a2af5475f66efefbb506september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=TwiMdOWWYknKYNrRYCDE7YmLvUO4iol09RrKO8yA3CZC-did=Y6MeF1FuyL4SaXSIr4bgtpnw7mW3erXeysVW1XJ95KLf-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=7-pl=androidtv-ap=26.10.15.5-ut=paid-ttl=1800-type=paid-~hmac=25409067768e5a84e47b09e8f877b1cd37f26d7b3d3928dd0c0559e81e1690da
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema", TATA IPL TV
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
@@ -487,13 +427,20 @@ https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 
-# ------------=== VT OTT | CIO ===---------------
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Sunday Night Main Event - 7 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788789177~acl=/*~id=80914603278084101054957420897324~hmac=53c714df6fe1731ecd2416f3207cb0dcfbccea5e0862de1416c806dc2af2b4d2
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Sunday Night Main Event - 7 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788789177~acl=/*~id=80914603278084101054957420897324~hmac=53c714df6fe1731ecd2416f3207cb0dcfbccea5e0862de1416c806dc2af2b4d2
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Sunday Night Main Event - 7 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788789177~acl=/*~id=80914603278084101054957420897324~hmac=53c714df6fe1731ecd2416f3207cb0dcfbccea5e0862de1416c806dc2af2b4d2
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Sunday Night Main Event - 7 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788789177~acl=/*~id=80914603278084101054957420897324~hmac=53c714df6fe1731ecd2416f3207cb0dcfbccea5e0862de1416c806dc2af2b4d2
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Sunday Night Main Event - 7 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788789177~acl=/*~id=80914603278084101054957420897324~hmac=53c714df6fe1731ecd2416f3207cb0dcfbccea5e0862de1416c806dc2af2b4d2
 
-#
-# ======= CATEGORY: ASSAMESE =======
-#
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-id="190" group-title="JIO ⭕|Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -834,8 +781,8 @@ https://onekey.virey40690.workers.dev/mpd/144
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/167
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788735702~exp=1788739302~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=5d396317d77b6c9ad0eb0a5f4b6bab4a838dadf5c76e92972a68798891717252","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1788735702~exp=1788739302~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=5d396317d77b6c9ad0eb0a5f4b6bab4a838dadf5c76e92972a68798891717252
+#EXTHTTP:{"cookie":"st=1788742977~exp=1788746577~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=0845036d434eed46959909a2d45b2ac1e55553315088eebd21a5940b269df252","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1788742977~exp=1788746577~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=0845036d434eed46959909a2d45b2ac1e55553315088eebd21a5940b269df252
 
 #EXTINF:-1 tvg-id="202" group-title="JIO ⭕|Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -869,8 +816,8 @@ https://onekey.virey40690.workers.dev/mpd/471
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/472
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788736419~exp=1788740019~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=04bc070ff7ff8535a8af8886b77f0946dbe79280762446cc63c9c02f963f5018","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1788736419~exp=1788740019~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=04bc070ff7ff8535a8af8886b77f0946dbe79280762446cc63c9c02f963f5018
+#EXTHTTP:{"cookie":"st=1788743534~exp=1788747134~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=079fae76ba333a80ab8a741593392c92d2dc6329b0b03b614cef86e6943d4317","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1788743534~exp=1788747134~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=079fae76ba333a80ab8a741593392c92d2dc6329b0b03b614cef86e6943d4317
 
 #EXTINF:-1 tvg-id="473" group-title="JIO ⭕|Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png",Anmol TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1079,8 +1026,8 @@ https://onekey.virey40690.workers.dev/mpd/583
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/821
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788734877~exp=1788738477~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=0def14974543724b79c8079c582e6022a906b190797f33a960c13713f9f10e08","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1788734877~exp=1788738477~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=0def14974543724b79c8079c582e6022a906b190797f33a960c13713f9f10e08
+#EXTHTTP:{"cookie":"st=1788745391~exp=1788748991~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=6f25b6d129c19bb4086e7eec895b001d24fa2904fc6629c7849c9fafca50cc91","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1788745391~exp=1788748991~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=6f25b6d129c19bb4086e7eec895b001d24fa2904fc6629c7849c9fafca50cc91
 
 #EXTINF:-1 tvg-id="3444" group-title="JIO ⭕|Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png",Discovery HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1228,8 +1175,8 @@ https://onekey.virey40690.workers.dev/mpd/561
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/562
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788736097~exp=1788739697~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=14050b42e5ead15d1b56837013b0fbc7bf8ff37f3aad26fd24926fdf12f0b43a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1788736097~exp=1788739697~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=14050b42e5ead15d1b56837013b0fbc7bf8ff37f3aad26fd24926fdf12f0b43a
+#EXTHTTP:{"cookie":"st=1788743135~exp=1788746735~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=0b482b126c1945d1f65c05b6748706deaad4b8919438a054d4d7c100ecf3990e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1788743135~exp=1788746735~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=0b482b126c1945d1f65c05b6748706deaad4b8919438a054d4d7c100ecf3990e
 
 #EXTINF:-1 tvg-id="571" group-title="JIO ⭕|Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHindi.png",TLC Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1518,8 +1465,8 @@ https://onekey.virey40690.workers.dev/mpd/185
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/415
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788736095~exp=1788739695~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=c5b3301496f3848b161e85d03c8b7aa54b44682e924074c76d0b25a229e1068a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1788736095~exp=1788739695~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=c5b3301496f3848b161e85d03c8b7aa54b44682e924074c76d0b25a229e1068a
+#EXTHTTP:{"cookie":"st=1788743129~exp=1788746729~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=4a31f43bdbb9cc9ae902763fd3a3120851917ef8274637be3a81bf9edc699451","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1788743129~exp=1788746729~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=4a31f43bdbb9cc9ae902763fd3a3120851917ef8274637be3a81bf9edc699451
 
 #EXTINF:-1 tvg-id="476" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1602,8 +1549,8 @@ https://onekey.virey40690.workers.dev/mpd/1477
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1668
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788733395~exp=1788736995~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=481b69f7e15dc441767874c653cb456ae5b3c3f0b716b52064d21457844606b7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1788733395~exp=1788736995~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=481b69f7e15dc441767874c653cb456ae5b3c3f0b716b52064d21457844606b7
+#EXTHTTP:{"cookie":"st=1788744201~exp=1788747801~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=998551e332c609e672af7fcd9d46a15a63807c34cf7fd717ea4e5047078446db","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1788744201~exp=1788747801~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=998551e332c609e672af7fcd9d46a15a63807c34cf7fd717ea4e5047078446db
 
 #EXTINF:-1 tvg-id="1691" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeClassicSD.png",Zee Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1637,8 +1584,8 @@ https://onekey.virey40690.workers.dev/mpd/2761
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/3096
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788736426~exp=1788740026~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=600b4293b7eafef914ac37bc5012f402a5953ff400a1a6778f2431457ecfe48b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1788736426~exp=1788740026~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=600b4293b7eafef914ac37bc5012f402a5953ff400a1a6778f2431457ecfe48b
+#EXTHTTP:{"cookie":"st=1788743597~exp=1788747197~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=1e2695743834e16b6acd2240722bc0df718dcc0aa83738eaa85805b2af5f2ef2","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1788743597~exp=1788747197~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=1e2695743834e16b6acd2240722bc0df718dcc0aa83738eaa85805b2af5f2ef2
 
 #EXTINF:-1 tvg-id="3097" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",Star Gold Romance
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2716,15 +2663,15 @@ https://onekey.virey40690.workers.dev/mpd/3515
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1108
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719727~exp=1788741327~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=3a915a17f990684b144709b6bf953ba4eb26e4eb6980dc164fe6f67e969f94a9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1788719727~exp=1788741327~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=3a915a17f990684b144709b6bf953ba4eb26e4eb6980dc164fe6f67e969f94a9
+#EXTHTTP:{"cookie":"st=1788741344~exp=1788762944~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=9c31962d0ef385bd85e6a9eea2521f029d885fdfe6df85f6be3f57dde444b1a9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1788741344~exp=1788762944~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=9c31962d0ef385bd85e6a9eea2521f029d885fdfe6df85f6be3f57dde444b1a9
 
 #EXTINF:-1 tvg-id="362" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png",Star Sports Hindi 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/362
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719792~exp=1788741392~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=48f8f02c33c330895e328d54896b729ba7aa218fb0df2f8b995cd090d5343205","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1788719792~exp=1788741392~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=48f8f02c33c330895e328d54896b729ba7aa218fb0df2f8b995cd090d5343205
+#EXTHTTP:{"cookie":"st=1788741424~exp=1788763024~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=7deda0af462d5b3fcdac34748a8f08fb1160dd5d4cad46c0df8afade440f832a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1788741424~exp=1788763024~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=7deda0af462d5b3fcdac34748a8f08fb1160dd5d4cad46c0df8afade440f832a
 
 #EXTINF:-1 tvg-id="1998" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2766,92 +2713,92 @@ https://onekey.virey40690.workers.dev/mpd/1529
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/460
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719896~exp=1788741496~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=18be67c8e0f31871012f7465b0b5ba517ff22e55b4f044ca7266a503ab62d33f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1788719896~exp=1788741496~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=18be67c8e0f31871012f7465b0b5ba517ff22e55b4f044ca7266a503ab62d33f
+#EXTHTTP:{"cookie":"st=1788741527~exp=1788763127~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=0c22e9b13e958dbbf81289012b993642396ecc0d0d61331d3f0f67f79fabbfbf","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1788741527~exp=1788763127~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=0c22e9b13e958dbbf81289012b993642396ecc0d0d61331d3f0f67f79fabbfbf
 
 #EXTINF:-1 tvg-id="1123" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/13/82/301994_1749664069587_l_medium.jpg",Star Sports Select 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1123
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719941~exp=1788741541~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=7c85b2f04aa4a943e90dfaad3072a534a7966e231afe4b5c33ab83f2fbb4d53f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1788719941~exp=1788741541~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=7c85b2f04aa4a943e90dfaad3072a534a7966e231afe4b5c33ab83f2fbb4d53f
+#EXTHTTP:{"cookie":"st=1788741576~exp=1788763176~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=3221e0e65f6777e924b5148c8685340d9d7c28a0321e1cceb1d7cf070f082c16","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1788741576~exp=1788763176~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=3221e0e65f6777e924b5148c8685340d9d7c28a0321e1cceb1d7cf070f082c16
 
 #EXTINF:-1 tvg-id="461" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/461
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719842~exp=1788741442~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=e171fbd6c6f2e268179e3fec74b1e5ff5f6847ed87f5245116132f21c163d102","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1788719842~exp=1788741442~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=e171fbd6c6f2e268179e3fec74b1e5ff5f6847ed87f5245116132f21c163d102
+#EXTHTTP:{"cookie":"st=1788741478~exp=1788763078~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=0ce693c1cf632e6479a3f331713339779f806457f6616a84ae75196710bcfb0d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1788741478~exp=1788763078~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=0ce693c1cf632e6479a3f331713339779f806457f6616a84ae75196710bcfb0d
 
 #EXTINF:-1 tvg-id="1114" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_medium.jpg",Star Sports Select 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1114
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719841~exp=1788741441~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=eaf40fd2dc75e51d106544a77f4b52d7e889c9926220a429f7cba507c9b6f69b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1788719841~exp=1788741441~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=eaf40fd2dc75e51d106544a77f4b52d7e889c9926220a429f7cba507c9b6f69b
+#EXTHTTP:{"cookie":"st=1788741485~exp=1788763085~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=2a3bc99f96e5a5a12f651e4715a02644ee068251816d76922351d8792b7b0471","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1788741485~exp=1788763085~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=2a3bc99f96e5a5a12f651e4715a02644ee068251816d76922351d8792b7b0471
 
 #EXTINF:-1 tvg-id="1106" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1106
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719842~exp=1788741442~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=1b05b8498641919fd9d7176b68f723357f61940fcb2ba86fb19a347b718389aa","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1788719842~exp=1788741442~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=1b05b8498641919fd9d7176b68f723357f61940fcb2ba86fb19a347b718389aa
+#EXTHTTP:{"cookie":"st=1788741478~exp=1788763078~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=9e9b0072e11d59b0965319a66d79331609ce3a73433456fe20eed9e67f0710f9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1788741478~exp=1788763078~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=9e9b0072e11d59b0965319a66d79331609ce3a73433456fe20eed9e67f0710f9
 
 #EXTINF:-1 tvg-id="1142" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1142
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788724692~exp=1788746292~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=d37fb91d30bc2b34bb0adfa47ffef46f2d9e48e83605fa9fcb0a873adce140ed","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st=1788724692~exp=1788746292~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=d37fb91d30bc2b34bb0adfa47ffef46f2d9e48e83605fa9fcb0a873adce140ed
+#EXTHTTP:{"cookie":"st=1788746324~exp=1788767924~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=252a346fee56503113f50d5ee5268bd280775abb6f31009f8edda098651f3b2f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st=1788746324~exp=1788767924~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=252a346fee56503113f50d5ee5268bd280775abb6f31009f8edda098651f3b2f
 
 #EXTINF:-1 tvg-id="1108" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1108
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719727~exp=1788741327~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=3a915a17f990684b144709b6bf953ba4eb26e4eb6980dc164fe6f67e969f94a9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1788719727~exp=1788741327~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=3a915a17f990684b144709b6bf953ba4eb26e4eb6980dc164fe6f67e969f94a9
+#EXTHTTP:{"cookie":"st=1788741344~exp=1788762944~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=9c31962d0ef385bd85e6a9eea2521f029d885fdfe6df85f6be3f57dde444b1a9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1788741344~exp=1788762944~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=9c31962d0ef385bd85e6a9eea2521f029d885fdfe6df85f6be3f57dde444b1a9
 
 #EXTINF:-1 tvg-id="362" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",Star Sports 1 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/362
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719792~exp=1788741392~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=48f8f02c33c330895e328d54896b729ba7aa218fb0df2f8b995cd090d5343205","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1788719792~exp=1788741392~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=48f8f02c33c330895e328d54896b729ba7aa218fb0df2f8b995cd090d5343205
+#EXTHTTP:{"cookie":"st=1788741424~exp=1788763024~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=7deda0af462d5b3fcdac34748a8f08fb1160dd5d4cad46c0df8afade440f832a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1788741424~exp=1788763024~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=7deda0af462d5b3fcdac34748a8f08fb1160dd5d4cad46c0df8afade440f832a
 
 #EXTINF:-1 tvg-id="1109" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1109
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719838~exp=1788741438~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=dbeef69a06d9bbfbf02ed7c7ecaf48bc78e227e2616c9b4b0073e338a6668ba1","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1788719838~exp=1788741438~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=dbeef69a06d9bbfbf02ed7c7ecaf48bc78e227e2616c9b4b0073e338a6668ba1
+#EXTHTTP:{"cookie":"st=1788741478~exp=1788763078~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=ea055898b7848cbe6d410985fa7d26337fa4c77426f0745e9293474d98e0a042","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1788741478~exp=1788763078~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=ea055898b7848cbe6d410985fa7d26337fa4c77426f0745e9293474d98e0a042
 
 #EXTINF:-1 tvg-id="1141" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg",Star Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1141
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719950~exp=1788741550~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=e4d3eec94aaf13f44b8ac2c3f27f0af3d777c7b417a53adf080b0ed1c5ad5d17","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1788719950~exp=1788741550~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=e4d3eec94aaf13f44b8ac2c3f27f0af3d777c7b417a53adf080b0ed1c5ad5d17
+#EXTHTTP:{"cookie":"st=1788741579~exp=1788763179~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=fbfa9a19fc29513c74efe3a73411444fc6c7fb3e9de4c43c51825308dd34592d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1788741579~exp=1788763179~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=fbfa9a19fc29513c74efe3a73411444fc6c7fb3e9de4c43c51825308dd34592d
 
 #EXTINF:-1 tvg-id="1984" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1984
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719889~exp=1788741489~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=4a4de1e2650b534775ec69f4abc773d3704f3505f96ef992986593146f0c7c9d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1788719889~exp=1788741489~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=4a4de1e2650b534775ec69f4abc773d3704f3505f96ef992986593146f0c7c9d
+#EXTHTTP:{"cookie":"st=1788741509~exp=1788763109~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=366eafee356161bf9f4f42c1618ea2399f6b0b23680e00bd12aea7de9c0abdd7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1788741509~exp=1788763109~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=366eafee356161bf9f4f42c1618ea2399f6b0b23680e00bd12aea7de9c0abdd7
 
 #EXTINF:-1 tvg-id="1985" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1985
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788720326~exp=1788741926~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=7bb1ed8f93f030b0a6d8410a10b928fc5fc1dc56cd5b5dc2ac5758ba74d9e4ea","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1788720326~exp=1788741926~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=7bb1ed8f93f030b0a6d8410a10b928fc5fc1dc56cd5b5dc2ac5758ba74d9e4ea
+#EXTHTTP:{"cookie":"st=1788741935~exp=1788763535~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=02a93255db4c475c1c4fd12f507e14952a6072eb622cd7fc4f9a7fe7c10fc00b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1788741935~exp=1788763535~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=02a93255db4c475c1c4fd12f507e14952a6072eb622cd7fc4f9a7fe7c10fc00b
 
 #EXTINF:-1 tvg-id="1389" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg",Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1389
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1788719250~exp=1788740850~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=80353d4916b7291a1d2c4dc4a69a8f4b7d4c44886a25fd56494fefbfafcb24c1","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1788719250~exp=1788740850~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=80353d4916b7291a1d2c4dc4a69a8f4b7d4c44886a25fd56494fefbfafcb24c1
+#EXTHTTP:{"cookie":"st=1788740879~exp=1788762479~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=38f16b09604f24821f2235eb79235c17d2018c32b0652cbee7ab299d3c25cb89","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1788740879~exp=1788762479~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=38f16b09604f24821f2235eb79235c17d2018c32b0652cbee7ab299d3c25cb89
 
 #EXTINF:-1 tvg-id="2766" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Brave_TV.png",BRAVE TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
